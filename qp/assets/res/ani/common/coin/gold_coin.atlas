@@ -1,0 +1,69 @@
+
+gold_coin.png
+size: 396,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold_coin_001
+  rotate: false
+  xy: 2, 4
+  size: 56, 56
+  orig: 62, 62
+  offset: 3, 4
+  index: -1
+gold_coin_002
+  rotate: false
+  xy: 114, 4
+  size: 52, 56
+  orig: 62, 62
+  offset: 5, 4
+  index: -1
+gold_coin_003
+  rotate: false
+  xy: 168, 4
+  size: 48, 56
+  orig: 62, 62
+  offset: 7, 4
+  index: -1
+gold_coin_004
+  rotate: false
+  xy: 268, 2
+  size: 38, 58
+  orig: 62, 62
+  offset: 12, 3
+  index: -1
+gold_coin_005
+  rotate: false
+  xy: 372, 3
+  size: 22, 57
+  orig: 62, 62
+  offset: 21, 1
+  index: -1
+gold_coin_006
+  rotate: false
+  xy: 348, 2
+  size: 22, 58
+  orig: 62, 62
+  offset: 20, 3
+  index: -1
+gold_coin_007
+  rotate: false
+  xy: 308, 2
+  size: 38, 58
+  orig: 62, 62
+  offset: 12, 3
+  index: -1
+gold_coin_008
+  rotate: false
+  xy: 218, 4
+  size: 48, 56
+  orig: 62, 62
+  offset: 7, 4
+  index: -1
+gold_coin_009
+  rotate: false
+  xy: 60, 4
+  size: 52, 56
+  orig: 62, 62
+  offset: 5, 4
+  index: -1

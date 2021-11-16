@@ -1,0 +1,258 @@
+
+hyf_left_btns_borderlight.png
+size: 1852,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_001
+  rotate: false
+  xy: 2, 291
+  size: 155, 114
+  orig: 160, 160
+  offset: 2, 27
+  index: -1
+light_002
+  rotate: false
+  xy: 316, 283
+  size: 155, 122
+  orig: 160, 160
+  offset: 2, 19
+  index: -1
+light_003
+  rotate: false
+  xy: 765, 276
+  size: 155, 129
+  orig: 160, 160
+  offset: 2, 16
+  index: -1
+light_004
+  rotate: false
+  xy: 1192, 274
+  size: 155, 131
+  orig: 160, 160
+  offset: 2, 15
+  index: -1
+light_005
+  rotate: false
+  xy: 1663, 272
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_006
+  rotate: false
+  xy: 2, 156
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_007
+  rotate: false
+  xy: 159, 149
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_008
+  rotate: false
+  xy: 316, 148
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_009
+  rotate: false
+  xy: 608, 142
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_010
+  rotate: false
+  xy: 765, 141
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_011
+  rotate: false
+  xy: 922, 140
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_012
+  rotate: false
+  xy: 1079, 139
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_013
+  rotate: false
+  xy: 1236, 139
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_014
+  rotate: false
+  xy: 1393, 138
+  size: 153, 133
+  orig: 160, 160
+  offset: 3, 14
+  index: -1
+light_015
+  rotate: false
+  xy: 1548, 137
+  size: 151, 133
+  orig: 160, 160
+  offset: 4, 14
+  index: -1
+light_016
+  rotate: false
+  xy: 1701, 137
+  size: 145, 133
+  orig: 160, 160
+  offset: 7, 14
+  index: -1
+light_017
+  rotate: true
+  xy: 473, 143
+  size: 136, 133
+  orig: 160, 160
+  offset: 14, 14
+  index: -1
+light_018
+  rotate: true
+  xy: 922, 276
+  size: 129, 133
+  orig: 160, 160
+  offset: 22, 14
+  index: -1
+light_019
+  rotate: true
+  xy: 473, 281
+  size: 124, 133
+  orig: 160, 160
+  offset: 27, 14
+  index: -1
+light_020
+  rotate: true
+  xy: 1057, 275
+  size: 130, 133
+  orig: 160, 160
+  offset: 21, 14
+  index: -1
+light_021
+  rotate: false
+  xy: 2, 21
+  size: 136, 133
+  orig: 160, 160
+  offset: 15, 14
+  index: -1
+light_022
+  rotate: false
+  xy: 140, 14
+  size: 144, 133
+  orig: 160, 160
+  offset: 8, 14
+  index: -1
+light_023
+  rotate: false
+  xy: 286, 13
+  size: 151, 133
+  orig: 160, 160
+  offset: 4, 14
+  index: -1
+light_024
+  rotate: false
+  xy: 439, 8
+  size: 153, 133
+  orig: 160, 160
+  offset: 3, 14
+  index: -1
+light_025
+  rotate: false
+  xy: 594, 7
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_026
+  rotate: false
+  xy: 751, 6
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_027
+  rotate: false
+  xy: 908, 5
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_028
+  rotate: false
+  xy: 1065, 4
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_029
+  rotate: false
+  xy: 1222, 4
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_030
+  rotate: false
+  xy: 1379, 3
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_031
+  rotate: false
+  xy: 1536, 2
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_032
+  rotate: false
+  xy: 1693, 2
+  size: 155, 133
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_033
+  rotate: false
+  xy: 1506, 273
+  size: 155, 132
+  orig: 160, 160
+  offset: 2, 14
+  index: -1
+light_034
+  rotate: false
+  xy: 1349, 274
+  size: 155, 131
+  orig: 160, 160
+  offset: 2, 15
+  index: -1
+light_035
+  rotate: false
+  xy: 608, 277
+  size: 155, 128
+  orig: 160, 160
+  offset: 2, 16
+  index: -1
+light_036
+  rotate: false
+  xy: 159, 284
+  size: 155, 121
+  orig: 160, 160
+  offset: 2, 19
+  index: -1

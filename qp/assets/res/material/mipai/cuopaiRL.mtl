@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.Material",
+  "_name": "cuopaiRL",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "9180666c-ca8f-4461-8b9f-a99eefdf7f83"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "textureBack": {
+          "__uuid__": "95053af7-09e8-4f00-a54b-7f37723140f4"
+        },
+        "textureFront": {
+          "__uuid__": "7c253777-6344-43eb-86a4-632304d1bcf9"
+        }
+      }
+    },
+    "1": {
+      "props": {
+        "textureBack": {
+          "__uuid__": "95053af7-09e8-4f00-a54b-7f37723140f4"
+        },
+        "textureFront": {
+          "__uuid__": "7c253777-6344-43eb-86a4-632304d1bcf9"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+
+nn_hyf_waitting.png
+size: 748,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_01
+  rotate: false
+  xy: 0, 9
+  size: 227, 181
+  orig: 300, 400
+  offset: 39, 36
+  index: -1
+bg_04
+  rotate: true
+  xy: 229, 2
+  size: 127, 130
+  orig: 200, 200
+  offset: 36, 32
+  index: -1
+fire_01
+  rotate: false
+  xy: 689, 44
+  size: 27, 45
+  orig: 50, 60
+  offset: 12, 8
+  index: -1
+fire_02
+  rotate: true
+  xy: 361, 8
+  size: 29, 44
+  orig: 50, 60
+  offset: 9, 7
+  index: -1
+fire_03
+  rotate: true
+  xy: 690, 102
+  size: 27, 45
+  orig: 50, 60
+  offset: 10, 8
+  index: -1
+fire_04
+  rotate: true
+  xy: 453, 15
+  size: 32, 44
+  orig: 50, 60
+  offset: 10, 7
+  index: -1
+fire_05
+  rotate: false
+  xy: 499, 0
+  size: 30, 47
+  orig: 50, 60
+  offset: 10, 7
+  index: -1
+fire_bg
+  rotate: false
+  xy: 453, 49
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+light_02
+  rotate: false
+  xy: 361, 39
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+pd
+  rotate: false
+  xy: 535, 91
+  size: 153, 38
+  orig: 153, 39
+  offset: 0, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 535, 25
+  size: 152, 64
+  orig: 200, 120
+  offset: 24, 23
+  index: -1
+word
+  rotate: false
+  xy: 229, 131
+  size: 518, 59
+  orig: 600, 600
+  offset: 48, 217
+  index: -1
+word_01
+  rotate: false
+  xy: 407, 12
+  size: 30, 25
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+zhen
+  rotate: false
+  xy: 689, 19
+  size: 25, 23
+  orig: 26, 23
+  offset: 1, 0
+  index: -1

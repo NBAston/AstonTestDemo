@@ -1,0 +1,104 @@
+
+club_topbtns.png
+size: 220,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 89
+  size: 61, 65
+  orig: 91, 69
+  offset: 15, 4
+  index: -1
+bg_02
+  rotate: false
+  xy: 2, 22
+  size: 61, 65
+  orig: 91, 69
+  offset: 15, 4
+  index: -1
+bg_light
+  rotate: false
+  xy: 65, 42
+  size: 60, 54
+  orig: 60, 60
+  offset: 0, 3
+  index: -1
+icon_01
+  rotate: false
+  xy: 130, 75
+  size: 52, 41
+  orig: 52, 43
+  offset: 0, 1
+  index: -1
+icon_02
+  rotate: false
+  xy: 132, 5
+  size: 44, 43
+  orig: 52, 43
+  offset: 4, 0
+  index: -1
+icon_03
+  rotate: false
+  xy: 65, 98
+  size: 63, 56
+  orig: 72, 63
+  offset: 5, 3
+  index: -1
+icon_04
+  rotate: false
+  xy: 184, 84
+  size: 34, 32
+  orig: 52, 43
+  offset: 9, 6
+  index: -1
+icon_05
+  rotate: true
+  xy: 178, 5
+  size: 43, 39
+  orig: 52, 43
+  offset: 4, 0
+  index: -1
+word_01
+  rotate: false
+  xy: 130, 118
+  size: 76, 17
+  orig: 91, 23
+  offset: 7, 2
+  index: -1
+word_02
+  rotate: false
+  xy: 130, 137
+  size: 77, 17
+  orig: 91, 23
+  offset: 6, 3
+  index: -1
+word_03
+  rotate: false
+  xy: 2, 2
+  size: 65, 18
+  orig: 91, 23
+  offset: 13, 2
+  index: -1
+word_04
+  rotate: false
+  xy: 65, 22
+  size: 64, 18
+  orig: 91, 23
+  offset: 14, 2
+  index: -1
+word_05
+  rotate: false
+  xy: 69, 2
+  size: 61, 18
+  orig: 91, 23
+  offset: 15, 2
+  index: -1
+word_bg
+  rotate: false
+  xy: 127, 50
+  size: 89, 23
+  orig: 91, 23
+  offset: 1, 0
+  index: -1

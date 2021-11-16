@@ -1,0 +1,119 @@
+// Copyright (c) 2017-2018 Xiamen Yaji Software Co., Ltd.  
+
+// Note: Current format version is experiment, the format may be changed.
+// The future format may not be compatible, you may need to update the script manually.
+
+// 注意：当前版本的格式是实验性的，之后还会进行修改。
+// 后续版本的格式不保证兼容当前格式，可能需要手动升级到最新版本。，
+CCEffect %{
+  techniques:
+  - passes:
+    - vert: vs
+      frag: fsFront
+      blendState:
+        targets:
+        - blend: true
+      rasterizerState:
+        cullMode: back
+      properties:
+        textureBack: { value: white }
+        textureFront: { value: white }
+        ratio: { value: 0 }
+        radius: { value: 0 }
+        width: { value: 0 }
+        height: { value: 0 }
+        offx: { value: 0 }
+        offy: { value: 0 }
+        rotation: { value: 0 }
+}%
+
+CCProgram vs %{
+
+precision highp float;
+
+#include <cc-global>
+#include <cc-local>
+
+in vec3 a_position;
+
+in mediump vec2 a_uv0;
+out mediump vec2 v_uv0;
+
+uniform RATIO {
+  float ratio;
+  float radius;
+  float width;
+  float height;
+  float offx;
+  float offy;
+  float rotation;
+};
+
+void main () {
+  mat4 mvp;
+  
+  mvp = cc_matViewProj;
+
+  v_uv0 = vec2(1.0 - a_uv0.x,a_uv0.y);
+
+  vec4 tmp_pos = vec4(0.0, 0.0, 0.0, 0.0);
+  tmp_pos = vec4(a_position.x, a_position.y, 0.0, 1.0);
+  if(tmp_pos.x < 0.0 || tmp_pos.x > width || tmp_pos.y < 0.0 || tmp_pos.y > height){
+  tmp_pos.x = 0.0;tmp_pos.y = 0.0;}
+  float cl = height/5.0;
+  float sl = (height - cl)/2.0;
+  float radii = (cl/rotation)/2.0;
+  float sinRot = sin(rotation);
+  float cosRot = cos(rotation);
+  float distance = radii*sinRot;
+  float centerY = height/2.0;
+  float poxY1 = centerY - distance;
+  float poxY2 = centerY + distance;
+  float posZ = sl*sinRot;
+  if(tmp_pos.y <= sl){
+     float length = sl - tmp_pos.y;
+     tmp_pos.y = poxY1 - length*cosRot;
+     tmp_pos.z = posZ - length*sinRot;
+  }
+  else if(tmp_pos.y < (sl+cl)){
+     float el = tmp_pos.y - sl;
+     float rotation2 = -el/radii;
+     float x1 = poxY1;
+     float y1 = posZ;
+     float x2 = centerY;
+     float y2 = posZ - radii*cosRot;
+     float sinRot2 = sin(rotation2);
+     float cosRot2 = cos(rotation2);
+     tmp_pos.y=(x1-x2)*cosRot2-(y1-y2)*sinRot2+x2;
+     tmp_pos.z=(y1-y2)*cosRot2+(x1-x2)*sinRot2+y2;
+  }
+  else if(tmp_pos.y <= height){
+      float length = tmp_pos.y - cl - sl;
+      tmp_pos.y = poxY2 + length*cosRot;
+      tmp_pos.z = posZ - length*sinRot;
+  }
+  if(rotation <= 0.1){
+      tmp_pos = vec4(a_position.x, a_position.y, 0.0, 1.0);
+  }
+  tmp_pos += vec4(offx, offy, 0.0, 0.0);
+  gl_Position = mvp * tmp_pos;
+}
+
+}%
+
+CCProgram fsFront %{
+
+precision highp float;
+uniform sampler2D textureBack;
+uniform sampler2D textureFront;
+varying mediump vec2 v_uv0;
+
+#include <alpha-test>
+
+void main () {
+  vec4 color = vec4(1.);
+  color *= texture2D(textureFront, v_uv0);
+  gl_FragColor = color;
+}
+
+}%

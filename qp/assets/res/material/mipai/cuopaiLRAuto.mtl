@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.Material",
+  "_name": "cuopaiLRAuto",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "c83a0976-e2a0-47b0-9170-207c9e1ff016"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "textureFront": {
+          "__uuid__": "7c253777-6344-43eb-86a4-632304d1bcf9"
+        },
+        "textureBack": {
+          "__uuid__": "95053af7-09e8-4f00-a54b-7f37723140f4"
+        }
+      }
+    }
+  }
+}

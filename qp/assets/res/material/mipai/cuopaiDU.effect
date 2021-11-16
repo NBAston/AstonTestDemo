@@ -1,0 +1,150 @@
+// Copyright (c) 2017-2018 Xiamen Yaji Software Co., Ltd.  
+
+// Note: Current format version is experiment, the format may be changed.
+// The future format may not be compatible, you may need to update the script manually.
+
+// 注意：当前版本的格式是实验性的，之后还会进行修改。
+// 后续版本的格式不保证兼容当前格式，可能需要手动升级到最新版本。，
+CCEffect %{
+  techniques:
+  - passes:
+    - vert: vs
+      frag: fsBack
+      blendState:
+        targets:
+        - blend: true
+      rasterizerState:
+        cullMode: back
+      properties:
+        textureBack: { value: white }
+        textureFront: { value: white }
+        ratio: { value: 0 }
+        radius: { value: 0 }
+        width: { value: 0 }
+        height: { value: 0 }
+        offx: { value: 0 }
+        offy: { value: 0 }
+        rotation: { value: 0 }
+    - vert: vs
+      frag: fsFront
+      blendState:
+        targets:
+        - blend: true
+      rasterizerState:
+        cullMode: front
+      properties:
+        textureBack: { value: white }
+        textureFront: { value: white }
+        ratio: { value: 0 }
+        radius: { value: 0 }
+        width: { value: 0 }
+        height: { value: 0 }
+        offx: { value: 0 }
+        offy: { value: 0 }
+        rotation: { value: 0 }
+}%
+
+CCProgram vs %{
+
+precision highp float;
+
+#include <cc-global>
+#include <cc-local>
+
+in vec3 a_position;
+
+in mediump vec2 a_uv0;
+out mediump vec2 v_uv0;
+
+uniform RATIO {
+  float ratio;
+  float radius;
+  float width;
+  float height;
+  float offx;
+  float offy;
+  float rotation;
+};
+
+void main () {
+  mat4 mvp;
+  
+  mvp = cc_matViewProj;
+
+  v_uv0 = a_uv0;
+
+  vec4 tmp_pos = vec4(0.0, 0.0, 0.0, 0.0);
+  tmp_pos = vec4(a_position.x, a_position.y, 0.0, 1.0);
+
+  float halfPeri = radius * 3.14159; 
+  float hr = height * ratio;
+  if(tmp_pos.x < 0.0 || tmp_pos.x > width || tmp_pos.y < 0.0 || tmp_pos.y > height)
+  {
+      tmp_pos.x = 0.0;tmp_pos.y = 0.0;
+  }
+  if(hr > 0.0 && hr <= halfPeri){
+      if(tmp_pos.y < hr){
+         float rad = hr/ 3.14159;
+         float arc = (hr-tmp_pos.y)/rad;
+         tmp_pos.y = hr - sin(arc)*rad;
+         tmp_pos.z = rad * (1.0-cos(arc)); 
+      }
+  }
+  if(hr > halfPeri){
+      float straight = (hr - halfPeri)/2.0;
+      if(tmp_pos.y < straight){
+          tmp_pos.y = hr  - tmp_pos.y;
+          tmp_pos.z = radius * 2.0; 
+      }
+      else if(tmp_pos.y < (straight + halfPeri)) {
+          float dy = halfPeri - (tmp_pos.y - straight);
+          float arc = dy/radius;
+          tmp_pos.y = hr - straight - sin(arc)*radius;
+          tmp_pos.z = radius * (1.0-cos(arc)); 
+      }
+  }
+  float y1 = tmp_pos.y;
+  float z1 = tmp_pos.z;
+  float y2 = height;
+  float z2 = 0.0;
+  float sinRat = sin(rotation);
+  float cosRat = cos(rotation);
+  tmp_pos.y=(y1-y2)*cosRat-(z1-z2)*sinRat+y2;
+  tmp_pos.z=(z1-z2)*cosRat+(y1-y2)*sinRat+z2;
+  tmp_pos.y = tmp_pos.y - height/2.0*(1.0-cosRat);
+  tmp_pos += vec4(offx, offy, 0.0, 0.0);
+
+  gl_Position = mvp * tmp_pos;
+}
+
+}%
+
+CCProgram fsBack %{
+
+precision highp float;
+uniform sampler2D textureBack;
+uniform sampler2D textureFront;
+varying mediump vec2 v_uv0;
+
+void main () {
+  vec4 color = vec4(1.);
+  color *= texture2D(textureBack, v_uv0);
+  gl_FragColor = color;
+}
+
+}%
+
+CCProgram fsFront %{
+
+precision highp float;
+uniform sampler2D textureBack;
+uniform sampler2D textureFront;
+varying mediump vec2 v_uv0;
+
+void main () {
+  vec4 color = vec4(1.);
+  color *= texture2D(textureFront, v_uv0);
+  gl_FragColor = color;
+}
+
+}%

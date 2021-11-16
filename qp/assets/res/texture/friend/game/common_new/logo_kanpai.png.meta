@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5d96df13-44f4-4d1d-abf1-cd1040172941",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 263,
+  "height": 80,
+  "platformSettings": {},
+  "subMetas": {
+    "logo_kanpai": {
+      "ver": "1.0.6",
+      "uuid": "f0a4ab73-48d7-4dce-ab98-025204008dda",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5d96df13-44f4-4d1d-abf1-cd1040172941",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 263,
+      "height": 80,
+      "rawWidth": 263,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

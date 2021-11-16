@@ -1,0 +1,202 @@
+
+dt_gxhd.png
+size: 964,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_01
+  rotate: true
+  xy: 2, 18
+  size: 628, 98
+  orig: 640, 100
+  offset: 6, 1
+  index: -1
+bg_light
+  rotate: true
+  xy: 583, 3
+  size: 77, 104
+  orig: 85, 104
+  offset: 3, 0
+  index: -1
+gxhd_fk
+  rotate: false
+  xy: 779, 853
+  size: 183, 141
+  orig: 300, 240
+  offset: 64, 50
+  index: -1
+gxhd_fk_light_001
+  rotate: false
+  xy: 102, 426
+  size: 285, 220
+  orig: 300, 240
+  offset: 12, 12
+  index: -1
+gxhd_fk_light_002
+  rotate: false
+  xy: 102, 224
+  size: 265, 200
+  orig: 300, 240
+  offset: 22, 25
+  index: -1
+gxhd_fk_light_003
+  rotate: false
+  xy: 102, 40
+  size: 225, 182
+  orig: 300, 240
+  offset: 43, 34
+  index: -1
+gxhd_fk_light_004
+  rotate: false
+  xy: 389, 502
+  size: 188, 140
+  orig: 300, 240
+  offset: 63, 53
+  index: -1
+gxhd_fk_light_005
+  rotate: true
+  xy: 329, 48
+  size: 174, 128
+  orig: 300, 240
+  offset: 69, 59
+  index: -1
+gxhd_fk_light_006
+  rotate: true
+  xy: 459, 56
+  size: 167, 122
+  orig: 300, 240
+  offset: 72, 62
+  index: -1
+gxhd_fk_light_007
+  rotate: true
+  xy: 779, 664
+  size: 187, 143
+  orig: 300, 240
+  offset: 62, 49
+  index: -1
+gxhd_fk_light_008
+  rotate: false
+  xy: 909, 483
+  size: 45, 51
+  orig: 300, 240
+  offset: 74, 141
+  index: -1
+gxhd_fk_light_009
+  rotate: true
+  xy: 838, 47
+  size: 80, 92
+  orig: 300, 240
+  offset: 68, 100
+  index: -1
+gxhd_fk_light_010
+  rotate: false
+  xy: 722, 105
+  size: 114, 124
+  orig: 300, 240
+  offset: 62, 68
+  index: -1
+gxhd_fk_light_011
+  rotate: true
+  xy: 545, 226
+  size: 133, 135
+  orig: 300, 240
+  offset: 62, 57
+  index: -1
+gxhd_fk_light_012
+  rotate: false
+  xy: 579, 363
+  size: 163, 138
+  orig: 300, 240
+  offset: 62, 53
+  index: -1
+gxhd_fk_light_013
+  rotate: false
+  xy: 389, 361
+  size: 180, 139
+  orig: 300, 240
+  offset: 62, 51
+  index: -1
+gxhd_fk_light_014
+  rotate: false
+  xy: 579, 503
+  size: 184, 139
+  orig: 300, 240
+  offset: 65, 49
+  index: -1
+gxhd_fk_light_015
+  rotate: false
+  xy: 369, 225
+  size: 174, 134
+  orig: 300, 240
+  offset: 75, 49
+  index: -1
+gxhd_fk_light_016
+  rotate: false
+  xy: 779, 536
+  size: 150, 126
+  orig: 300, 240
+  offset: 99, 49
+  index: -1
+gxhd_fk_light_017
+  rotate: true
+  xy: 838, 129
+  size: 122, 121
+  orig: 300, 240
+  offset: 127, 49
+  index: -1
+gxhd_fk_light_018
+  rotate: false
+  xy: 722, 2
+  size: 92, 101
+  orig: 300, 240
+  offset: 156, 52
+  index: -1
+gxhd_gold
+  rotate: true
+  xy: 765, 397
+  size: 137, 142
+  orig: 137, 142
+  offset: 0, 0
+  index: -1
+gxhd_gold_light
+  rotate: false
+  xy: 583, 82
+  size: 137, 142
+  orig: 137, 142
+  offset: 0, 0
+  index: -1
+gxhd_gold_shadow
+  rotate: false
+  xy: 791, 253
+  size: 137, 142
+  orig: 137, 142
+  offset: 0, 0
+  index: -1
+qld_bg_01
+  rotate: false
+  xy: 2, 648
+  size: 423, 346
+  orig: 434, 350
+  offset: 0, 4
+  index: -1
+qld_bg_02
+  rotate: false
+  xy: 427, 644
+  size: 350, 350
+  orig: 434, 350
+  offset: 42, 0
+  index: -1
+star_01
+  rotate: false
+  xy: 924, 827
+  size: 23, 24
+  orig: 30, 30
+  offset: 3, 3
+  index: -1
+word_01
+  rotate: false
+  xy: 682, 231
+  size: 107, 130
+  orig: 107, 130
+  offset: 0, 0
+  index: -1

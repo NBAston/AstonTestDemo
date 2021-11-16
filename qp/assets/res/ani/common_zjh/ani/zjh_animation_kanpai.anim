@@ -1,0 +1,136 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zjh_animation_kanpai",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "gf_poker1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -40,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                -27.5,
+                0
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -30.7,
+                -1.3
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -33.2,
+                -3.8
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 8
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 10
+            }
+          ]
+        }
+      },
+      "gf_poker3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                40,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                27.5,
+                0
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                31.2,
+                -1.5
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                34.2,
+                -4.1
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -8
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -10
+            }
+          ]
+        }
+      },
+      "gf_poker2": {
+        "props": {
+          "position": [],
+          "angle": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 2
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

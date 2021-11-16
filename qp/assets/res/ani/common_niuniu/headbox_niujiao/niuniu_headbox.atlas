@@ -1,0 +1,216 @@
+
+niuniu_headbox.png
+size: 1576,1576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niu_001
+  rotate: false
+  xy: 148, 1312
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_002
+  rotate: false
+  xy: 410, 1312
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_003
+  rotate: false
+  xy: 672, 1312
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_004
+  rotate: false
+  xy: 934, 1312
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_005
+  rotate: false
+  xy: 1196, 1312
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_006
+  rotate: false
+  xy: 2, 1050
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_007
+  rotate: false
+  xy: 264, 1050
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_008
+  rotate: false
+  xy: 526, 1050
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_009
+  rotate: false
+  xy: 788, 1050
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_010
+  rotate: false
+  xy: 1050, 1050
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_011
+  rotate: false
+  xy: 1312, 1050
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_012
+  rotate: false
+  xy: 2, 788
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_013
+  rotate: false
+  xy: 264, 788
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_014
+  rotate: false
+  xy: 526, 788
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_015
+  rotate: false
+  xy: 788, 788
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_016
+  rotate: false
+  xy: 1050, 788
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_017
+  rotate: false
+  xy: 1312, 788
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_018
+  rotate: false
+  xy: 2, 526
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_019
+  rotate: false
+  xy: 264, 526
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_020
+  rotate: false
+  xy: 526, 526
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_021
+  rotate: false
+  xy: 788, 526
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_022
+  rotate: false
+  xy: 1050, 526
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_023
+  rotate: false
+  xy: 1312, 526
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_024
+  rotate: false
+  xy: 2, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_025
+  rotate: false
+  xy: 264, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_026
+  rotate: false
+  xy: 526, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_027
+  rotate: false
+  xy: 788, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_028
+  rotate: false
+  xy: 1050, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_029
+  rotate: false
+  xy: 1312, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+niu_030
+  rotate: false
+  xy: 2, 1520
+  size: 144, 52
+  orig: 260, 260
+  offset: 59, 179
+  index: -1

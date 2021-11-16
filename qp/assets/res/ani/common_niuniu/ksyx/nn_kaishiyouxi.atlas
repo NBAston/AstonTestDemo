@@ -1,0 +1,314 @@
+
+nn_kaishiyouxi.png
+size: 1876,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 457, 44
+  size: 426, 221
+  orig: 439, 241
+  offset: 6, 12
+  index: -1
+bg_light
+  rotate: false
+  xy: 2, 15
+  size: 453, 455
+  orig: 500, 500
+  offset: 24, 23
+  index: -1
+bullet_01
+  rotate: true
+  xy: 676, 24
+  size: 18, 17
+  orig: 26, 25
+  offset: 2, 4
+  index: -1
+bullet_02
+  rotate: false
+  xy: 649, 17
+  size: 25, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 933, 143
+  size: 136, 162
+  orig: 140, 165
+  offset: 0, 0
+  index: -1
+gun_fire_01
+  rotate: true
+  xy: 457, 9
+  size: 33, 25
+  orig: 200, 200
+  offset: 90, 77
+  index: -1
+gun_fire_02
+  rotate: false
+  xy: 1685, 78
+  size: 91, 97
+  orig: 200, 200
+  offset: 47, 71
+  index: -1
+gun_fire_03
+  rotate: false
+  xy: 1632, 249
+  size: 99, 105
+  orig: 200, 200
+  offset: 39, 64
+  index: -1
+gun_fire_04
+  rotate: true
+  xy: 824, 14
+  size: 117, 113
+  orig: 200, 200
+  offset: 24, 65
+  index: -1
+gun_fire_05
+  rotate: true
+  xy: 695, 8
+  size: 120, 127
+  orig: 200, 200
+  offset: 23, 49
+  index: -1
+gun_fire_06
+  rotate: false
+  xy: 849, 307
+  size: 147, 163
+  orig: 200, 200
+  offset: 8, 37
+  index: -1
+gun_fire_07
+  rotate: false
+  xy: 998, 310
+  size: 149, 160
+  orig: 200, 200
+  offset: 22, 21
+  index: -1
+gun_fire_08
+  rotate: true
+  xy: 1139, 4
+  size: 143, 148
+  orig: 200, 200
+  offset: 35, 15
+  index: -1
+gun_fire_09
+  rotate: false
+  xy: 773, 133
+  size: 158, 164
+  orig: 200, 200
+  offset: 27, 7
+  index: -1
+gun_fire_10
+  rotate: true
+  xy: 680, 299
+  size: 171, 167
+  orig: 200, 200
+  offset: 20, 13
+  index: -1
+hat_01
+  rotate: true
+  xy: 1566, 245
+  size: 109, 64
+  orig: 112, 68
+  offset: 2, 2
+  index: -1
+hat_02
+  rotate: true
+  xy: 680, 130
+  size: 167, 91
+  orig: 167, 94
+  offset: 0, 1
+  index: -1
+word_01
+  rotate: false
+  xy: 1762, 177
+  size: 97, 92
+  orig: 102, 101
+  offset: 2, 4
+  index: -1
+word_02
+  rotate: true
+  xy: 1733, 271
+  size: 98, 94
+  orig: 102, 101
+  offset: 1, 5
+  index: -1
+word_03
+  rotate: true
+  xy: 1589, 66
+  size: 102, 94
+  orig: 102, 101
+  offset: 0, 5
+  index: -1
+word_04
+  rotate: true
+  xy: 1642, 371
+  size: 99, 97
+  orig: 102, 101
+  offset: 1, 4
+  index: -1
+word_light_001
+  rotate: true
+  xy: 484, 11
+  size: 31, 85
+  orig: 400, 120
+  offset: 29, 21
+  index: -1
+word_light_002
+  rotate: true
+  xy: 1488, 2
+  size: 53, 93
+  orig: 400, 120
+  offset: 27, 14
+  index: -1
+word_light_003
+  rotate: true
+  xy: 1566, 170
+  size: 73, 95
+  orig: 400, 120
+  offset: 27, 13
+  index: -1
+word_light_004
+  rotate: true
+  xy: 1778, 83
+  size: 92, 95
+  orig: 400, 120
+  offset: 27, 13
+  index: -1
+word_light_005
+  rotate: true
+  xy: 1544, 356
+  size: 114, 96
+  orig: 400, 120
+  offset: 27, 13
+  index: -1
+word_light_006
+  rotate: true
+  xy: 939, 8
+  size: 133, 97
+  orig: 400, 120
+  offset: 27, 13
+  index: -1
+word_light_007
+  rotate: true
+  xy: 1389, 2
+  size: 152, 97
+  orig: 400, 120
+  offset: 29, 13
+  index: -1
+word_light_008
+  rotate: true
+  xy: 1368, 156
+  size: 155, 97
+  orig: 400, 120
+  offset: 42, 13
+  index: -1
+word_light_009
+  rotate: true
+  xy: 1467, 169
+  size: 148, 97
+  orig: 400, 120
+  offset: 72, 13
+  index: -1
+word_light_010
+  rotate: true
+  xy: 1071, 149
+  size: 159, 97
+  orig: 400, 120
+  offset: 82, 13
+  index: -1
+word_light_011
+  rotate: true
+  xy: 1446, 319
+  size: 151, 96
+  orig: 400, 120
+  offset: 110, 14
+  index: -1
+word_light_012
+  rotate: true
+  xy: 1248, 313
+  size: 157, 97
+  orig: 400, 120
+  offset: 122, 13
+  index: -1
+word_light_013
+  rotate: true
+  xy: 1269, 154
+  size: 157, 97
+  orig: 400, 120
+  offset: 142, 13
+  index: -1
+word_light_014
+  rotate: true
+  xy: 1347, 313
+  size: 157, 97
+  orig: 400, 120
+  offset: 162, 13
+  index: -1
+word_light_015
+  rotate: true
+  xy: 1149, 311
+  size: 159, 97
+  orig: 400, 120
+  offset: 182, 14
+  index: -1
+word_light_016
+  rotate: true
+  xy: 1170, 151
+  size: 158, 97
+  orig: 400, 120
+  offset: 202, 14
+  index: -1
+word_light_017
+  rotate: true
+  xy: 1289, 3
+  size: 149, 98
+  orig: 400, 120
+  offset: 222, 14
+  index: -1
+word_light_018
+  rotate: true
+  xy: 1038, 11
+  size: 130, 99
+  orig: 400, 120
+  offset: 243, 13
+  index: -1
+word_light_019
+  rotate: true
+  xy: 1488, 57
+  size: 110, 99
+  orig: 400, 120
+  offset: 263, 13
+  index: -1
+word_light_020
+  rotate: false
+  xy: 1741, 372
+  size: 91, 98
+  orig: 400, 120
+  offset: 282, 13
+  index: -1
+word_light_021
+  rotate: true
+  xy: 1663, 178
+  size: 69, 97
+  orig: 400, 120
+  offset: 304, 13
+  index: -1
+word_light_022
+  rotate: true
+  xy: 1583, 6
+  size: 49, 95
+  orig: 400, 120
+  offset: 324, 13
+  index: -1
+word_light_023
+  rotate: true
+  xy: 571, 13
+  size: 29, 76
+  orig: 400, 120
+  offset: 343, 15
+  index: -1

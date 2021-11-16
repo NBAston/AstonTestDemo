@@ -1,0 +1,17 @@
+info face="微软雅黑" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=3,1 outline=0
+common lineHeight=32 base=26 scaleW=350 scaleH=160 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="tishi_qiangzhuangbeilv1_0.png"
+chars count=13
+char id=48   x=178   y=0     width=42    height=78    xoffset=0     yoffset=0     xadvance=42    page=0  chnl=15
+char id=49   x=270   y=79    width=28    height=78    xoffset=0     yoffset=0     xadvance=28    page=0  chnl=15
+char id=50   x=223   y=0     width=42    height=78    xoffset=0     yoffset=0     xadvance=42    page=0  chnl=15
+char id=51   x=268   y=0     width=42    height=78    xoffset=0     yoffset=0     xadvance=42    page=0  chnl=15
+char id=52   x=0     y=79    width=42    height=78    xoffset=0     yoffset=0     xadvance=42    page=0  chnl=15
+char id=53   x=45    y=79    width=42    height=78    xoffset=0     yoffset=0     xadvance=42    page=0  chnl=15
+char id=54   x=90    y=79    width=42    height=78    xoffset=0     yoffset=0     xadvance=42    page=0  chnl=15
+char id=55   x=135   y=79    width=42    height=78    xoffset=0     yoffset=0     xadvance=42    page=0  chnl=15
+char id=56   x=180   y=79    width=42    height=78    xoffset=0     yoffset=0     xadvance=42    page=0  chnl=15
+char id=57   x=225   y=79    width=42    height=78    xoffset=0     yoffset=0     xadvance=42    page=0  chnl=15
+char id=120  x=313   y=0     width=33    height=78    xoffset=0     yoffset=0     xadvance=33    page=0  chnl=15
+char id=19981 x=0     y=0     width=86    height=78    xoffset=0     yoffset=0     xadvance=86    page=0  chnl=15
+char id=25250 x=89    y=0     width=86    height=78    xoffset=0     yoffset=0     xadvance=86    page=0  chnl=15

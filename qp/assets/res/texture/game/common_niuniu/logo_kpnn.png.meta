@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "295d41ed-631a-49be-a398-20d498cc96ce",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 263,
+  "height": 82,
+  "platformSettings": {},
+  "subMetas": {
+    "logo_kpnn": {
+      "ver": "1.0.6",
+      "uuid": "0d77f752-570f-4ed5-9461-03ad19f8c309",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "295d41ed-631a-49be-a398-20d498cc96ce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 263,
+      "height": 81,
+      "rawWidth": 263,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

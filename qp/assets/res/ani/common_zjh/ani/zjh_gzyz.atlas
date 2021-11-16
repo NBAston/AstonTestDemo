@@ -1,0 +1,69 @@
+
+zjh_gzyz.png
+size: 1664,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 184
+  size: 1357, 159
+  orig: 1375, 180
+  offset: 10, 11
+  index: -1
+black
+  rotate: false
+  xy: 2, 2
+  size: 370, 180
+  orig: 370, 180
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 374, 80
+  size: 85, 102
+  orig: 100, 106
+  offset: 8, 1
+  index: -1
+icon_01
+  rotate: false
+  xy: 374, 57
+  size: 23, 21
+  orig: 100, 106
+  offset: 35, 41
+  index: -1
+win_light
+  rotate: false
+  xy: 1361, 43
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+word_01
+  rotate: false
+  xy: 651, 91
+  size: 89, 91
+  orig: 106, 106
+  offset: 9, 4
+  index: -1
+word_02
+  rotate: false
+  xy: 461, 91
+  size: 93, 91
+  orig: 106, 106
+  offset: 7, 4
+  index: -1
+word_03
+  rotate: false
+  xy: 742, 157
+  size: 88, 25
+  orig: 106, 106
+  offset: 9, 37
+  index: -1
+word_04
+  rotate: false
+  xy: 556, 91
+  size: 93, 91
+  orig: 106, 106
+  offset: 6, 4
+  index: -1

@@ -1,0 +1,20 @@
+
+get_coin.png
+size: 536,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 2
+  size: 458, 418
+  orig: 460, 420
+  offset: 2, 0
+  index: -1
+star
+  rotate: true
+  xy: 462, 345
+  size: 75, 71
+  orig: 80, 80
+  offset: 2, 5
+  index: -1
