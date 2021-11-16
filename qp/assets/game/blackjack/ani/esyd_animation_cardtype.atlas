@@ -1,0 +1,342 @@
+
+esyd_animation_cardtype.png
+size: 1608,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_01
+  rotate: false
+  xy: 1006, 438
+  size: 234, 64
+  orig: 240, 80
+  offset: 3, 8
+  index: -1
+bg_02
+  rotate: true
+  xy: 1006, 67
+  size: 198, 69
+  orig: 240, 80
+  offset: 21, 0
+  index: -1
+bg_light_01
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+bg_light_02
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+bg_line_light
+  rotate: true
+  xy: 1500, 182
+  size: 142, 16
+  orig: 205, 47
+  offset: 31, 15
+  index: -1
+bj_01
+  rotate: false
+  xy: 1366, 444
+  size: 150, 58
+  orig: 240, 80
+  offset: 43, 21
+  index: -1
+bj_02
+  rotate: false
+  xy: 1451, 326
+  size: 96, 42
+  orig: 240, 80
+  offset: 72, 3
+  index: -1
+bj_lights_001
+  rotate: true
+  xy: 1006, 2
+  size: 12, 29
+  orig: 240, 80
+  offset: 45, 28
+  index: -1
+bj_lights_002
+  rotate: true
+  xy: 1348, 7
+  size: 25, 35
+  orig: 240, 80
+  offset: 45, 23
+  index: -1
+bj_lights_003
+  rotate: false
+  xy: 1525, 11
+  size: 41, 38
+  orig: 240, 80
+  offset: 45, 23
+  index: -1
+bj_lights_004
+  rotate: false
+  xy: 1518, 268
+  size: 51, 56
+  orig: 240, 80
+  offset: 45, 5
+  index: -1
+bj_lights_005
+  rotate: true
+  xy: 1486, 106
+  size: 74, 62
+  orig: 240, 80
+  offset: 45, 4
+  index: -1
+bj_lights_006
+  rotate: true
+  xy: 1356, 34
+  size: 92, 64
+  orig: 240, 80
+  offset: 45, 4
+  index: -1
+bj_lights_007
+  rotate: true
+  xy: 1288, 138
+  size: 103, 67
+  orig: 240, 80
+  offset: 49, 4
+  index: -1
+bj_lights_008
+  rotate: false
+  xy: 1478, 372
+  size: 104, 70
+  orig: 240, 80
+  offset: 65, 4
+  index: -1
+bj_lights_009
+  rotate: false
+  xy: 1366, 370
+  size: 110, 72
+  orig: 240, 80
+  offset: 75, 4
+  index: -1
+bj_lights_010
+  rotate: true
+  xy: 1426, 212
+  size: 104, 72
+  orig: 240, 80
+  offset: 87, 5
+  index: -1
+bj_lights_011
+  rotate: false
+  xy: 1150, 2
+  size: 87, 68
+  orig: 240, 80
+  offset: 104, 9
+  index: -1
+bj_lights_012
+  rotate: true
+  xy: 1288, 66
+  size: 70, 66
+  orig: 240, 80
+  offset: 121, 11
+  index: -1
+bj_lights_013
+  rotate: true
+  xy: 1518, 447
+  size: 55, 63
+  orig: 240, 80
+  offset: 136, 14
+  index: -1
+bj_lights_014
+  rotate: true
+  xy: 1285, 27
+  size: 37, 61
+  orig: 240, 80
+  offset: 154, 16
+  index: -1
+bj_lights_015
+  rotate: false
+  xy: 1148, 284
+  size: 12, 31
+  orig: 240, 80
+  offset: 179, 43
+  index: -1
+bust_01
+  rotate: true
+  xy: 1228, 75
+  size: 44, 46
+  orig: 240, 80
+  offset: 80, 18
+  index: -1
+bust_02
+  rotate: true
+  xy: 1477, 6
+  size: 43, 46
+  orig: 240, 80
+  offset: 121, 18
+  index: -1
+light_001
+  rotate: false
+  xy: 1549, 334
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+long_001
+  rotate: false
+  xy: 1550, 160
+  size: 51, 55
+  orig: 200, 160
+  offset: 23, 27
+  index: -1
+long_002
+  rotate: true
+  xy: 1357, 128
+  size: 82, 70
+  orig: 200, 160
+  offset: 21, 12
+  index: -1
+long_003
+  rotate: true
+  xy: 1086, 317
+  size: 119, 75
+  orig: 200, 160
+  offset: 23, 9
+  index: -1
+long_004
+  rotate: true
+  xy: 1006, 267
+  size: 169, 78
+  orig: 200, 160
+  offset: 27, 9
+  index: -1
+long_005
+  rotate: true
+  xy: 1153, 72
+  size: 178, 73
+  orig: 200, 160
+  offset: 15, 18
+  index: -1
+long_006
+  rotate: true
+  xy: 1163, 252
+  size: 184, 74
+  orig: 200, 160
+  offset: 9, 18
+  index: -1
+long_007
+  rotate: true
+  xy: 1077, 81
+  size: 184, 74
+  orig: 200, 160
+  offset: 9, 19
+  index: -1
+long_008
+  rotate: false
+  xy: 1239, 243
+  size: 185, 73
+  orig: 200, 160
+  offset: 8, 19
+  index: -1
+long_009
+  rotate: true
+  xy: 1242, 318
+  size: 184, 122
+  orig: 200, 160
+  offset: 9, 19
+  index: -1
+star
+  rotate: true
+  xy: 1077, 7
+  size: 72, 71
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+wxl
+  rotate: true
+  xy: 1228, 121
+  size: 120, 58
+  orig: 240, 80
+  offset: 58, 14
+  index: -1
+wxl_light_001
+  rotate: true
+  xy: 1357, 213
+  size: 28, 42
+  orig: 240, 80
+  offset: 60, 16
+  index: -1
+wxl_light_002
+  rotate: false
+  xy: 1568, 5
+  size: 37, 44
+  orig: 240, 80
+  offset: 60, 16
+  index: -1
+wxl_light_003
+  rotate: false
+  xy: 1086, 267
+  size: 60, 48
+  orig: 240, 80
+  offset: 60, 16
+  index: -1
+wxl_light_004
+  rotate: false
+  xy: 1518, 217
+  size: 71, 49
+  orig: 240, 80
+  offset: 60, 16
+  index: -1
+wxl_light_005
+  rotate: false
+  xy: 1486, 51
+  size: 92, 53
+  orig: 240, 80
+  offset: 60, 16
+  index: -1
+wxl_light_006
+  rotate: true
+  xy: 1429, 105
+  size: 105, 55
+  orig: 240, 80
+  offset: 62, 16
+  index: -1
+wxl_light_007
+  rotate: true
+  xy: 1422, 5
+  size: 98, 53
+  orig: 240, 80
+  offset: 77, 18
+  index: -1
+wxl_light_008
+  rotate: false
+  xy: 1366, 318
+  size: 83, 50
+  orig: 240, 80
+  offset: 93, 21
+  index: -1
+wxl_light_009
+  rotate: false
+  xy: 1006, 16
+  size: 66, 49
+  orig: 240, 80
+  offset: 110, 22
+  index: -1
+wxl_light_010
+  rotate: true
+  xy: 1239, 27
+  size: 46, 44
+  orig: 240, 80
+  offset: 130, 27
+  index: -1
+wxl_light_011
+  rotate: false
+  xy: 1571, 288
+  size: 34, 44
+  orig: 240, 80
+  offset: 142, 27
+  index: -1
+wxl_light_012
+  rotate: false
+  xy: 1583, 466
+  size: 18, 36
+  orig: 240, 80
+  offset: 158, 30
+  index: -1

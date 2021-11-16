@@ -1,0 +1,20 @@
+
+ebg_animation_dicebg.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+shaizhong
+  rotate: false
+  xy: 0, 0
+  size: 256, 373
+  orig: 256, 373
+  offset: 0, 0
+  index: -1
+shaizhongbg
+  rotate: true
+  xy: 258, 83
+  size: 290, 190
+  orig: 290, 190
+  offset: 0, 0
+  index: -1

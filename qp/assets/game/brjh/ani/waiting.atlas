@@ -1,0 +1,97 @@
+
+waiting.png
+size: 1064,1064
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 871
+  size: 1060, 120
+  orig: 1060, 144
+  offset: 0, 11
+  index: -1
+lingdang
+  rotate: false
+  xy: 134, 996
+  size: 65, 66
+  orig: 80, 80
+  offset: 6, 10
+  index: -1
+word_001
+  rotate: false
+  xy: 201, 995
+  size: 68, 67
+  orig: 80, 80
+  offset: 7, 7
+  index: -1
+word_002
+  rotate: false
+  xy: 409, 994
+  size: 68, 68
+  orig: 80, 80
+  offset: 6, 7
+  index: -1
+word_003
+  rotate: false
+  xy: 271, 995
+  size: 66, 67
+  orig: 80, 80
+  offset: 7, 6
+  index: -1
+word_004
+  rotate: false
+  xy: 549, 993
+  size: 69, 69
+  orig: 80, 80
+  offset: 5, 6
+  index: -1
+word_005
+  rotate: false
+  xy: 63, 997
+  size: 69, 65
+  orig: 80, 80
+  offset: 4, 7
+  index: -1
+word_006
+  rotate: false
+  xy: 339, 995
+  size: 68, 67
+  orig: 80, 80
+  offset: 5, 7
+  index: -1
+word_007
+  rotate: false
+  xy: 32, 1024
+  size: 29, 38
+  orig: 80, 80
+  offset: 11, 0
+  index: -1
+word_008
+  rotate: false
+  xy: 620, 993
+  size: 68, 69
+  orig: 80, 80
+  offset: 6, 6
+  index: -1
+word_009
+  rotate: false
+  xy: 479, 994
+  size: 68, 68
+  orig: 80, 80
+  offset: 5, 7
+  index: -1
+word_010
+  rotate: false
+  xy: 690, 993
+  size: 69, 69
+  orig: 80, 80
+  offset: 5, 6
+  index: -1
+word_011
+  rotate: false
+  xy: 2, 1033
+  size: 28, 29
+  orig: 80, 80
+  offset: 10, 9
+  index: -1

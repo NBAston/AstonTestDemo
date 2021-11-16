@@ -1,0 +1,13 @@
+
+ebg_animation_washingmj.png
+size: 128,64
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+mahjongbg
+  rotate: true
+  xy: 0, 0
+  size: 64, 101
+  orig: 64, 101
+  offset: 0, 0
+  index: -1

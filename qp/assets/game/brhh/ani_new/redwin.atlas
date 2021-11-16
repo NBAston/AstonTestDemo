@@ -1,0 +1,314 @@
+
+redwin.png
+size: 1908,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_01
+  rotate: false
+  xy: 1603, 523
+  size: 256, 263
+  orig: 259, 279
+  offset: 0, 12
+  index: -1
+bg_light_01
+  rotate: false
+  xy: 2, 167
+  size: 625, 619
+  orig: 674, 674
+  offset: 22, 34
+  index: -1
+bg_light_02
+  rotate: false
+  xy: 629, 277
+  size: 518, 509
+  orig: 674, 674
+  offset: 68, 79
+  index: -1
+girl/girl_baoshi
+  rotate: false
+  xy: 1333, 40
+  size: 139, 120
+  orig: 214, 171
+  offset: 35, 30
+  index: -1
+girl/girl_body_01
+  rotate: false
+  xy: 1497, 213
+  size: 233, 284
+  orig: 233, 284
+  offset: 0, 0
+  index: -1
+girl/girl_body_02
+  rotate: false
+  xy: 1139, 41
+  size: 192, 123
+  orig: 192, 123
+  offset: 0, 0
+  index: -1
+girl/girl_fazhang
+  rotate: false
+  xy: 1149, 499
+  size: 452, 287
+  orig: 452, 287
+  offset: 0, 0
+  index: -1
+girl/girl_hair_01
+  rotate: false
+  xy: 1861, 707
+  size: 42, 79
+  orig: 42, 79
+  offset: 0, 0
+  index: -1
+girl/girl_hair_02
+  rotate: false
+  xy: 1490, 149
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: -1
+girl/girl_hair_03
+  rotate: true
+  xy: 908, 63
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+girl/girl_hair_04
+  rotate: true
+  xy: 1732, 271
+  size: 250, 112
+  orig: 250, 112
+  offset: 0, 0
+  index: -1
+girl/girl_hair_05
+  rotate: false
+  xy: 1358, 162
+  size: 130, 108
+  orig: 132, 108
+  offset: 2, 0
+  index: -1
+girl/girl_head
+  rotate: false
+  xy: 1474, 44
+  size: 81, 103
+  orig: 81, 103
+  offset: 0, 0
+  index: -1
+girl/girl_huangguan
+  rotate: false
+  xy: 1734, 90
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+girl/girl_lef_necktie_02
+  rotate: false
+  xy: 1861, 640
+  size: 44, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+girl/girl_left_hand
+  rotate: true
+  xy: 961, 38
+  size: 237, 176
+  orig: 237, 176
+  offset: 0, 0
+  index: -1
+girl/girl_left_necktie_01
+  rotate: true
+  xy: 1861, 565
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+girl/girl_leg
+  rotate: false
+  xy: 635, 26
+  size: 271, 147
+  orig: 271, 160
+  offset: 0, 13
+  index: -1
+girl/girl_nicktie_baoshi
+  rotate: false
+  xy: 1861, 537
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+girl/girl_pifeng
+  rotate: false
+  xy: 1149, 272
+  size: 346, 225
+  orig: 346, 225
+  offset: 0, 0
+  index: -1
+girl/girl_qunzi_01
+  rotate: false
+  xy: 360, 13
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+girl/girl_qunzi_02
+  rotate: false
+  xy: 2, 5
+  size: 356, 160
+  orig: 356, 160
+  offset: 0, 0
+  index: -1
+girl/girl_right_hand
+  rotate: false
+  xy: 1139, 166
+  size: 217, 104
+  orig: 217, 104
+  offset: 0, 0
+  index: -1
+girl/girl_right_necktie_01
+  rotate: false
+  xy: 1674, 2
+  size: 81, 68
+  orig: 81, 68
+  offset: 0, 0
+  index: -1
+girl/girl_right_necktie_02
+  rotate: false
+  xy: 1474, 2
+  size: 81, 40
+  orig: 81, 42
+  offset: 0, 2
+  index: -1
+pd_01
+  rotate: false
+  xy: 629, 175
+  size: 330, 100
+  orig: 349, 115
+  offset: 10, 7
+  index: -1
+redwin_001
+  rotate: false
+  xy: 1815, 47
+  size: 23, 48
+  orig: 240, 120
+  offset: 23, 38
+  index: -1
+redwin_002
+  rotate: false
+  xy: 1795, 97
+  size: 43, 54
+  orig: 240, 120
+  offset: 23, 32
+  index: -1
+redwin_003
+  rotate: false
+  xy: 1843, 146
+  size: 63, 55
+  orig: 240, 120
+  offset: 23, 32
+  index: -1
+redwin_004
+  rotate: true
+  xy: 1614, 64
+  size: 83, 58
+  orig: 240, 120
+  offset: 23, 32
+  index: -1
+redwin_005
+  rotate: false
+  xy: 1737, 153
+  size: 104, 58
+  orig: 240, 120
+  offset: 24, 32
+  index: -1
+redwin_006
+  rotate: false
+  xy: 1732, 213
+  size: 112, 56
+  orig: 240, 120
+  offset: 35, 34
+  index: -1
+redwin_007
+  rotate: true
+  xy: 1557, 39
+  size: 108, 55
+  orig: 240, 120
+  offset: 56, 35
+  index: -1
+redwin_008
+  rotate: false
+  xy: 1625, 156
+  size: 110, 55
+  orig: 240, 120
+  offset: 77, 35
+  index: -1
+redwin_009
+  rotate: true
+  xy: 1846, 304
+  size: 104, 56
+  orig: 240, 120
+  offset: 102, 34
+  index: -1
+redwin_010
+  rotate: true
+  xy: 1846, 203
+  size: 99, 57
+  orig: 240, 120
+  offset: 119, 33
+  index: -1
+redwin_011
+  rotate: true
+  xy: 1674, 72
+  size: 82, 58
+  orig: 240, 120
+  offset: 136, 31
+  index: -1
+redwin_012
+  rotate: false
+  xy: 1840, 87
+  size: 62, 57
+  orig: 240, 120
+  offset: 156, 31
+  index: -1
+redwin_013
+  rotate: false
+  xy: 908, 6
+  size: 42, 55
+  orig: 240, 120
+  offset: 176, 31
+  index: -1
+redwin_014
+  rotate: true
+  xy: 1603, 501
+  size: 20, 54
+  orig: 240, 120
+  offset: 198, 31
+  index: -1
+word_01_01
+  rotate: false
+  xy: 1757, 29
+  size: 56, 59
+  orig: 80, 80
+  offset: 12, 9
+  index: -1
+word_02_01
+  rotate: true
+  xy: 1846, 410
+  size: 54, 60
+  orig: 80, 80
+  offset: 13, 10
+  index: -1
+word_03_01
+  rotate: true
+  xy: 1614, 8
+  size: 54, 58
+  orig: 80, 80
+  offset: 11, 12
+  index: -1
+word_04_01
+  rotate: true
+  xy: 1846, 466
+  size: 55, 60
+  orig: 80, 80
+  offset: 12, 12
+  index: -1

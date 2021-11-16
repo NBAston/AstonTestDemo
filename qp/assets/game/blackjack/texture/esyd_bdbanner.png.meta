@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "76f95d66-207c-4368-9dfd-0035b71f94da",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1040,
+  "height": 83,
+  "platformSettings": {},
+  "subMetas": {
+    "esyd_bdbanner": {
+      "ver": "1.0.6",
+      "uuid": "7c74124e-0052-4f77-aa2a-ab714bd679b8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "76f95d66-207c-4368-9dfd-0035b71f94da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 1032,
+      "height": 78,
+      "rawWidth": 1040,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

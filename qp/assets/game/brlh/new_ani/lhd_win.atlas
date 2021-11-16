@@ -1,0 +1,48 @@
+
+lhd_win.png
+size: 876,648
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+word_hj_01
+  rotate: false
+  xy: 468, 425
+  size: 405, 222
+  orig: 470, 240
+  offset: 20, 0
+  index: -1
+word_hj_02
+  rotate: false
+  xy: 0, 425
+  size: 466, 222
+  orig: 470, 240
+  offset: 0, 0
+  index: -1
+word_hy_01
+  rotate: false
+  xy: 472, 0
+  size: 380, 223
+  orig: 470, 240
+  offset: 45, 8
+  index: -1
+word_hy_02
+  rotate: false
+  xy: 0, 216
+  size: 465, 207
+  orig: 470, 240
+  offset: 3, 16
+  index: -1
+word_ly_01
+  rotate: false
+  xy: 467, 225
+  size: 404, 198
+  orig: 470, 240
+  offset: 33, 21
+  index: -1
+word_ly_02
+  rotate: false
+  xy: 0, 11
+  size: 470, 203
+  orig: 470, 240
+  offset: 0, 18
+  index: -1

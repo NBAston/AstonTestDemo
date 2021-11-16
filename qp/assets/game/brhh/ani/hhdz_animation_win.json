@@ -1,0 +1,55 @@
+{
+"skeleton": { "hash": "eIKmyzkiW9awAkoFi15o9nR5YJ4", "spine": "3.7.91", "width": 271, "height": 158, "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 25, "rotation": 90 }
+],
+"slots": [
+	{ "name": "hhdz_winner", "bone": "bone", "attachment": "hhdz_winner" },
+	{ "name": "zjh_ae_btn_zdxz_01", "bone": "bone", "color": "ffffff3c", "attachment": "zjh_ae_btn_zdxz_12", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"hhdz_winner": {
+			"hhdz_winner": { "rotation": -90, "width": 238, "height": 119 }
+		},
+		"zjh_ae_btn_zdxz_01": {
+			"zjh_ae_btn_zdxz_01": { "x": 0.5, "y": 0.5, "rotation": -90, "width": 271, "height": 158 },
+			"zjh_ae_btn_zdxz_02": { "rotation": -90, "width": 271, "height": 158 },
+			"zjh_ae_btn_zdxz_03": { "rotation": -90, "width": 271, "height": 158 },
+			"zjh_ae_btn_zdxz_04": { "rotation": -90, "width": 271, "height": 158 },
+			"zjh_ae_btn_zdxz_05": { "rotation": -90, "width": 271, "height": 158 },
+			"zjh_ae_btn_zdxz_06": { "rotation": -90, "width": 271, "height": 158 },
+			"zjh_ae_btn_zdxz_07": { "rotation": -90, "width": 271, "height": 158 },
+			"zjh_ae_btn_zdxz_08": { "rotation": -90, "width": 271, "height": 158 },
+			"zjh_ae_btn_zdxz_09": { "rotation": -90, "width": 271, "height": 158 },
+			"zjh_ae_btn_zdxz_10": { "rotation": -90, "width": 271, "height": 158 },
+			"zjh_ae_btn_zdxz_11": { "rotation": -90, "width": 271, "height": 158 },
+			"zjh_ae_btn_zdxz_12": { "rotation": -90, "width": 271, "height": 158 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"zjh_ae_btn_zdxz_01": {
+				"attachment": [
+					{ "time": 0, "name": "zjh_ae_btn_zdxz_01" },
+					{ "time": 0.1, "name": "zjh_ae_btn_zdxz_02" },
+					{ "time": 0.2, "name": "zjh_ae_btn_zdxz_03" },
+					{ "time": 0.3, "name": "zjh_ae_btn_zdxz_04" },
+					{ "time": 0.4, "name": "zjh_ae_btn_zdxz_05" },
+					{ "time": 0.5, "name": "zjh_ae_btn_zdxz_06" },
+					{ "time": 0.6, "name": "zjh_ae_btn_zdxz_07" },
+					{ "time": 0.7, "name": "zjh_ae_btn_zdxz_08" },
+					{ "time": 0.8, "name": "zjh_ae_btn_zdxz_09" },
+					{ "time": 0.9, "name": "zjh_ae_btn_zdxz_10" },
+					{ "time": 1, "name": "zjh_ae_btn_zdxz_11" },
+					{ "time": 1.1, "name": "zjh_ae_btn_zdxz_12" },
+					{ "time": 1.2, "name": "zjh_ae_btn_zdxz_01" }
+				]
+			}
+		}
+	}
+}
+}

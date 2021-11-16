@@ -1,0 +1,111 @@
+
+esyd_animation_raise.png
+size: 2048,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+esyd_animation_raise_chip
+  rotate: false
+  xy: 1838, 148
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_path
+  rotate: true
+  xy: 2, 154
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight1
+  rotate: true
+  xy: 614, 192
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight10
+  rotate: true
+  xy: 614, 78
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight11
+  rotate: true
+  xy: 1226, 116
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight12
+  rotate: true
+  xy: 2, 2
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight13
+  rotate: true
+  xy: 614, 40
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight2
+  rotate: true
+  xy: 2, 116
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight3
+  rotate: true
+  xy: 614, 154
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight4
+  rotate: true
+  xy: 1226, 192
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight5
+  rotate: true
+  xy: 2, 78
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight6
+  rotate: true
+  xy: 614, 116
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight7
+  rotate: true
+  xy: 1226, 154
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight8
+  rotate: true
+  xy: 2, 40
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1
+esyd_animation_raise_pathlight9
+  rotate: true
+  xy: 2, 192
+  size: 36, 610
+  orig: 36, 610
+  offset: 0, 0
+  index: -1

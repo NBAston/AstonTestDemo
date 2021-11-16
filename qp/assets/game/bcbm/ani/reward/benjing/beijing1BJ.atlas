@@ -1,0 +1,13 @@
+
+beijing1BJ.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ
+  rotate: false
+  xy: 2, 2
+  size: 885, 343
+  orig: 885, 343
+  offset: 0, 0
+  index: -1

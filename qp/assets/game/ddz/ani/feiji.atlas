@@ -1,0 +1,146 @@
+
+feiji.png
+size: 712,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fan_001
+  rotate: false
+  xy: 546, 250
+  size: 78, 145
+  orig: 87, 156
+  offset: 5, 5
+  index: -1
+fan_002
+  rotate: true
+  xy: 267, 159
+  size: 78, 145
+  orig: 87, 156
+  offset: 5, 5
+  index: -1
+fan_003
+  rotate: true
+  xy: 414, 159
+  size: 78, 145
+  orig: 87, 156
+  offset: 5, 5
+  index: -1
+fan_004
+  rotate: false
+  xy: 626, 406
+  size: 78, 145
+  orig: 87, 156
+  offset: 5, 5
+  index: -1
+fan_005
+  rotate: false
+  xy: 626, 259
+  size: 78, 145
+  orig: 87, 156
+  offset: 5, 5
+  index: -1
+fan_006
+  rotate: true
+  xy: 267, 79
+  size: 78, 145
+  orig: 87, 156
+  offset: 5, 5
+  index: -1
+fan_007
+  rotate: true
+  xy: 414, 79
+  size: 78, 145
+  orig: 87, 156
+  offset: 5, 5
+  index: -1
+fan_008
+  rotate: false
+  xy: 561, 103
+  size: 78, 145
+  orig: 87, 156
+  offset: 5, 5
+  index: -1
+feiji
+  rotate: false
+  xy: 2, 459
+  size: 365, 250
+  orig: 388, 259
+  offset: 7, 2
+  index: -1
+fire_01
+  rotate: false
+  xy: 358, 6
+  size: 110, 71
+  orig: 117, 72
+  offset: 7, 0
+  index: -1
+fire_02
+  rotate: false
+  xy: 240, 7
+  size: 116, 70
+  orig: 117, 72
+  offset: 1, 1
+  index: -1
+fire_03
+  rotate: false
+  xy: 470, 6
+  size: 104, 71
+  orig: 117, 72
+  offset: 12, 1
+  index: -1
+light_001
+  rotate: false
+  xy: 2, 301
+  size: 287, 156
+  orig: 308, 156
+  offset: 21, 0
+  index: -1
+light_002
+  rotate: false
+  xy: 291, 239
+  size: 253, 156
+  orig: 308, 156
+  offset: 33, 0
+  index: -1
+light_003
+  rotate: false
+  xy: 369, 553
+  size: 277, 156
+  orig: 308, 156
+  offset: 31, 0
+  index: -1
+light_004
+  rotate: false
+  xy: 369, 397
+  size: 255, 154
+  orig: 308, 156
+  offset: 43, 0
+  index: -1
+light_005
+  rotate: false
+  xy: 2, 10
+  size: 236, 131
+  orig: 308, 156
+  offset: 51, 9
+  index: -1
+light_006
+  rotate: false
+  xy: 2, 143
+  size: 263, 156
+  orig: 308, 156
+  offset: 45, 0
+  index: -1
+yan_01
+  rotate: true
+  xy: 641, 172
+  size: 85, 68
+  orig: 86, 70
+  offset: 0, 2
+  index: -1
+yan_02
+  rotate: true
+  xy: 576, 22
+  size: 79, 72
+  orig: 79, 74
+  offset: 0, 1
+  index: -1

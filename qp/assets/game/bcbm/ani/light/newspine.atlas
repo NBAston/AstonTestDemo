@@ -1,0 +1,20 @@
+
+newspine.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA
+  rotate: false
+  xy: 2, 2
+  size: 54, 22
+  orig: 54, 22
+  offset: 0, 0
+  index: -1
+BB
+  rotate: false
+  xy: 58, 2
+  size: 54, 22
+  orig: 54, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+hhdz_boy.png
+size: 1212,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boy/boy_baoshi
+  rotate: false
+  xy: 969, 2
+  size: 93, 90
+  orig: 111, 104
+  offset: 9, 7
+  index: -1
+boy/boy_body
+  rotate: true
+  xy: 378, 75
+  size: 275, 323
+  orig: 280, 336
+  offset: 0, 9
+  index: -1
+boy/boy_finger_01
+  rotate: true
+  xy: 1064, 24
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+boy/boy_finger_02
+  rotate: true
+  xy: 580, 28
+  size: 45, 78
+  orig: 51, 82
+  offset: 3, 2
+  index: -1
+boy/boy_finger_03
+  rotate: false
+  xy: 866, 2
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+boy/boy_finger_04
+  rotate: false
+  xy: 498, 13
+  size: 80, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+boy/boy_finger_05
+  rotate: true
+  xy: 1154, 19
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+boy/boy_head
+  rotate: true
+  xy: 703, 35
+  size: 151, 161
+  orig: 154, 163
+  offset: 2, 2
+  index: -1
+boy/boy_jian
+  rotate: true
+  xy: 703, 188
+  size: 162, 264
+  orig: 163, 265
+  offset: 0, 1
+  index: -1
+boy/boy_left_arm
+  rotate: true
+  xy: 1090, 217
+  size: 133, 117
+  orig: 136, 117
+  offset: 0, 0
+  index: -1
+boy/boy_left_forarm
+  rotate: false
+  xy: 1090, 107
+  size: 108, 108
+  orig: 112, 108
+  offset: 2, 0
+  index: -1
+boy/boy_left_hand
+  rotate: false
+  xy: 866, 81
+  size: 101, 105
+  orig: 106, 108
+  offset: 2, 2
+  index: -1
+boy/boy_pifeng_01
+  rotate: false
+  xy: 378, 17
+  size: 118, 56
+  orig: 119, 59
+  offset: 0, 2
+  index: -1
+boy/boy_pifeng_02
+  rotate: false
+  xy: 2, 17
+  size: 374, 333
+  orig: 375, 333
+  offset: 0, 0
+  index: -1
+boy/boy_right_hand
+  rotate: true
+  xy: 969, 94
+  size: 256, 119
+  orig: 256, 119
+  offset: 0, 0
+  index: -1

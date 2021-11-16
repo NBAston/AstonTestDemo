@@ -1,0 +1,97 @@
+
+hhdz_animation_win.png
+size: 2048,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+hhdz_winner
+  rotate: false
+  xy: 819, 39
+  size: 238, 119
+  orig: 238, 119
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_01
+  rotate: false
+  xy: 0, 320
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_02
+  rotate: false
+  xy: 0, 160
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_03
+  rotate: false
+  xy: 273, 320
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_04
+  rotate: false
+  xy: 0, 0
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_05
+  rotate: false
+  xy: 273, 160
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_06
+  rotate: false
+  xy: 546, 320
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_07
+  rotate: false
+  xy: 273, 0
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_08
+  rotate: false
+  xy: 546, 160
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_09
+  rotate: false
+  xy: 819, 320
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_10
+  rotate: false
+  xy: 546, 0
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_11
+  rotate: false
+  xy: 819, 160
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1
+zjh_ae_btn_zdxz_12
+  rotate: false
+  xy: 1092, 320
+  size: 271, 158
+  orig: 271, 158
+  offset: 0, 0
+  index: -1

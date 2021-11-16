@@ -1,0 +1,182 @@
+{
+"skeleton": { "hash": "p8OGjO2SOQHACBM8BZiFtuXiyTw", "spine": "3.7.91", "width": 484.85, "height": 369.31, "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "mahjongbg", "parent": "root", "length": 25, "rotation": 90 },
+	{ "name": "mahjongbg2", "parent": "root", "length": 25, "rotation": 90, "y": -79.21 },
+	{ "name": "mahjongbg3", "parent": "root", "length": 25, "rotation": 90, "y": -188.6 },
+	{ "name": "mahjongbg4", "parent": "root", "length": 25, "rotation": 90, "y": -267.81 }
+],
+"slots": [
+	{ "name": "bone0", "bone": "mahjongbg", "attachment": "mahjongbg" },
+	{ "name": "bone1", "bone": "mahjongbg", "attachment": "mahjongbg" },
+	{ "name": "bone2", "bone": "mahjongbg", "attachment": "mahjongbg" },
+	{ "name": "bone3", "bone": "mahjongbg", "attachment": "mahjongbg" },
+	{ "name": "bone4", "bone": "mahjongbg", "attachment": "mahjongbg" },
+	{ "name": "bone5", "bone": "mahjongbg", "attachment": "mahjongbg" },
+	{ "name": "bone6", "bone": "mahjongbg", "attachment": "mahjongbg" },
+	{ "name": "bone7", "bone": "mahjongbg", "attachment": "mahjongbg" },
+	{ "name": "bone8", "bone": "mahjongbg2", "attachment": "mahjongbg" },
+	{ "name": "bone9", "bone": "mahjongbg2", "attachment": "mahjongbg" },
+	{ "name": "bone10", "bone": "mahjongbg2", "attachment": "mahjongbg" },
+	{ "name": "bone11", "bone": "mahjongbg2", "attachment": "mahjongbg" },
+	{ "name": "bone12", "bone": "mahjongbg2", "attachment": "mahjongbg" },
+	{ "name": "bone13", "bone": "mahjongbg2", "attachment": "mahjongbg" },
+	{ "name": "bone14", "bone": "mahjongbg2", "attachment": "mahjongbg" },
+	{ "name": "bone15", "bone": "mahjongbg2", "attachment": "mahjongbg" },
+	{ "name": "bone16", "bone": "mahjongbg3", "attachment": "mahjongbg" },
+	{ "name": "bone17", "bone": "mahjongbg3", "attachment": "mahjongbg" },
+	{ "name": "bone18", "bone": "mahjongbg3", "attachment": "mahjongbg" },
+	{ "name": "bone19", "bone": "mahjongbg3", "attachment": "mahjongbg" },
+	{ "name": "bone20", "bone": "mahjongbg3", "attachment": "mahjongbg" },
+	{ "name": "bone21", "bone": "mahjongbg3", "attachment": "mahjongbg" },
+	{ "name": "bone22", "bone": "mahjongbg3", "attachment": "mahjongbg" },
+	{ "name": "bone23", "bone": "mahjongbg3", "attachment": "mahjongbg" },
+	{ "name": "bone24", "bone": "mahjongbg4", "attachment": "mahjongbg" },
+	{ "name": "bone25", "bone": "mahjongbg4", "attachment": "mahjongbg" },
+	{ "name": "bone26", "bone": "mahjongbg4", "attachment": "mahjongbg" },
+	{ "name": "bone27", "bone": "mahjongbg4", "attachment": "mahjongbg" },
+	{ "name": "bone28", "bone": "mahjongbg4", "attachment": "mahjongbg" },
+	{ "name": "bone29", "bone": "mahjongbg4", "attachment": "mahjongbg" },
+	{ "name": "bone30", "bone": "mahjongbg4", "attachment": "mahjongbg" },
+	{ "name": "bone31", "bone": "mahjongbg4", "attachment": "mahjongbg" }
+],
+"skins": {
+	"default": {
+		"bone0": {
+			"mahjongbg": { "y": 211.23, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone1": {
+			"mahjongbg": { "x": 0.5, "y": 150.96, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone10": {
+			"mahjongbg": { "x": 0.5, "y": 90.68, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone11": {
+			"mahjongbg": { "x": 0.5, "y": 30.27, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone12": {
+			"mahjongbg": { "x": 0.5, "y": -30.18, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone13": {
+			"mahjongbg": { "x": 0.5, "y": -90.32, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone14": {
+			"mahjongbg": { "x": 0.5, "y": -150.59, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone15": {
+			"mahjongbg": { "x": 0.5, "y": -209.62, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone16": {
+			"mahjongbg": { "y": 211.23, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone17": {
+			"mahjongbg": { "x": 0.5, "y": 150.96, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone18": {
+			"mahjongbg": { "x": 0.5, "y": 90.68, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone19": {
+			"mahjongbg": { "x": 0.5, "y": 30.27, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone2": {
+			"mahjongbg": { "x": 0.5, "y": 90.68, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone20": {
+			"mahjongbg": { "x": 0.5, "y": -30.18, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone21": {
+			"mahjongbg": { "x": 0.5, "y": -90.32, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone22": {
+			"mahjongbg": { "x": 0.5, "y": -150.59, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone23": {
+			"mahjongbg": { "x": 0.5, "y": -209.62, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone24": {
+			"mahjongbg": { "y": 211.23, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone25": {
+			"mahjongbg": { "x": 0.5, "y": 150.96, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone26": {
+			"mahjongbg": { "x": 0.5, "y": 90.68, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone27": {
+			"mahjongbg": { "x": 0.5, "y": 30.27, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone28": {
+			"mahjongbg": { "x": 0.5, "y": -30.18, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone29": {
+			"mahjongbg": { "x": 0.5, "y": -90.32, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone3": {
+			"mahjongbg": { "x": 0.5, "y": 30.27, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone30": {
+			"mahjongbg": { "x": 0.5, "y": -150.59, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone31": {
+			"mahjongbg": { "x": 0.5, "y": -209.62, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone4": {
+			"mahjongbg": { "x": 0.5, "y": -30.18, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone5": {
+			"mahjongbg": { "x": 0.5, "y": -90.32, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone6": {
+			"mahjongbg": { "x": 0.5, "y": -150.59, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone7": {
+			"mahjongbg": { "x": 0.5, "y": -209.62, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone8": {
+			"mahjongbg": { "y": 211.23, "rotation": -90, "width": 64, "height": 101 }
+		},
+		"bone9": {
+			"mahjongbg": { "x": 0.5, "y": 150.96, "rotation": -90, "width": 64, "height": 101 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"mahjongbg2": {
+				"translate": [
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 116.53 },
+					{ "time": 0.4, "x": 0, "y": 102.82 }
+				],
+				"scale": [
+					{ "time": 0.2667, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.05, "y": 1.05 },
+					{ "time": 0.4, "x": 1, "y": 1 }
+				]
+			},
+			"mahjongbg3": {
+				"translate": [
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 111.05 }
+				]
+			},
+			"mahjongbg4": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0, "y": 122.02 },
+					{ "time": 0.2, "x": 0, "y": 102.82, "curve": "stepped" },
+					{ "time": 0.4, "x": 0, "y": 102.82 },
+					{ "time": 0.5, "x": 0, "y": 213.88 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.05, "y": 1.05 },
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

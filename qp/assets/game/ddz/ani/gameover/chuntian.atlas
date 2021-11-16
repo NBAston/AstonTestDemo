@@ -1,0 +1,174 @@
+
+chuntian.png
+size: 1988,1292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+branch1
+  rotate: true
+  xy: 1269, 40
+  size: 52, 172
+  orig: 75, 175
+  offset: 7, 3
+  index: -1
+branch2
+  rotate: true
+  xy: 749, 5
+  size: 87, 101
+  orig: 94, 110
+  offset: 2, 7
+  index: -1
+branch3
+  rotate: false
+  xy: 1088, 23
+  size: 134, 69
+  orig: 134, 72
+  offset: 0, 0
+  index: -1
+butterfly_body
+  rotate: true
+  xy: 1515, 389
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+butterfly_left
+  rotate: true
+  xy: 1443, 6
+  size: 111, 124
+  orig: 111, 124
+  offset: 0, 0
+  index: -1
+butterfly_right
+  rotate: true
+  xy: 636, 2
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+chun
+  rotate: false
+  xy: 636, 94
+  size: 777, 267
+  orig: 800, 420
+  offset: 7, 120
+  index: -1
+fan_chun
+  rotate: false
+  xy: 636, 363
+  size: 877, 267
+  orig: 886, 386
+  offset: 6, 102
+  index: -1
+flower01
+  rotate: true
+  xy: 978, 16
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+flower02
+  rotate: true
+  xy: 1946, 1237
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+flower03
+  rotate: false
+  xy: 852, 6
+  size: 124, 86
+  orig: 124, 86
+  offset: 0, 0
+  index: -1
+flower04
+  rotate: false
+  xy: 1608, 259
+  size: 162, 177
+  orig: 162, 178
+  offset: 0, 0
+  index: -1
+flower05
+  rotate: true
+  xy: 1608, 125
+  size: 132, 169
+  orig: 134, 171
+  offset: 1, 1
+  index: -1
+flower_bg
+  rotate: true
+  xy: 2, 11
+  size: 1278, 632
+  orig: 1408, 730
+  offset: 59, 98
+  index: -1
+flower_bg_shadow
+  rotate: false
+  xy: 636, 632
+  size: 1308, 657
+  orig: 1408, 730
+  offset: 45, 58
+  index: -1
+leaf01
+  rotate: true
+  xy: 1224, 23
+  size: 69, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 1569, 24
+  size: 52, 93
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 1023, 22
+  size: 63, 70
+  orig: 65, 70
+  offset: 1, 0
+  index: -1
+new_flower_001
+  rotate: true
+  xy: 1415, 119
+  size: 242, 191
+  orig: 311, 258
+  offset: 34, 28
+  index: -1
+new_flower_002
+  rotate: false
+  xy: 1822, 296
+  size: 147, 171
+  orig: 149, 171
+  offset: 1, 0
+  index: -1
+new_flower_003
+  rotate: true
+  xy: 1515, 438
+  size: 192, 149
+  orig: 195, 155
+  offset: 3, 1
+  index: -1
+new_flower_004
+  rotate: false
+  xy: 1822, 469
+  size: 164, 161
+  orig: 166, 167
+  offset: 2, 6
+  index: -1
+new_flower_005
+  rotate: false
+  xy: 1779, 150
+  size: 169, 144
+  orig: 171, 153
+  offset: 1, 9
+  index: -1
+new_flower_006
+  rotate: false
+  xy: 1666, 458
+  size: 154, 172
+  orig: 156, 178
+  offset: 0, 0
+  index: -1

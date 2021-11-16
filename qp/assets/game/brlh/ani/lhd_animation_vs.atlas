@@ -1,0 +1,124 @@
+
+lhd_animation_vs.png
+size: 2048,2048
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bigaperture
+  rotate: false
+  xy: 708, 438
+  size: 310, 310
+  orig: 310, 310
+  offset: 0, 0
+  index: -1
+hei_bg
+  rotate: true
+  xy: 1758, 1379
+  size: 633, 285
+  orig: 633, 285
+  offset: 0, 0
+  index: -1
+hong_bg
+  rotate: true
+  xy: 1722, 750
+  size: 627, 285
+  orig: 627, 285
+  offset: 0, 0
+  index: -1
+lightanim_01
+  rotate: false
+  xy: 767, 1258
+  size: 953, 352
+  orig: 953, 352
+  offset: 0, 0
+  index: -1
+lightanim_02
+  rotate: true
+  xy: 0, 423
+  size: 953, 352
+  orig: 953, 352
+  offset: 0, 0
+  index: -1
+lightanim_03
+  rotate: true
+  xy: 354, 423
+  size: 953, 352
+  orig: 953, 352
+  offset: 0, 0
+  index: -1
+lightanim_04
+  rotate: false
+  xy: 0, 69
+  size: 953, 352
+  orig: 953, 352
+  offset: 0, 0
+  index: -1
+lightanim_05
+  rotate: false
+  xy: 708, 904
+  size: 953, 352
+  orig: 953, 352
+  offset: 0, 0
+  index: -1
+lightanim_06
+  rotate: false
+  xy: 767, 1612
+  size: 989, 400
+  orig: 989, 400
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 1020, 522
+  size: 542, 380
+  orig: 542, 380
+  offset: 0, 0
+  index: -1
+smallaperture
+  rotate: false
+  xy: 1564, 518
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+v
+  rotate: true
+  xy: 1610, 166
+  size: 350, 380
+  orig: 350, 380
+  offset: 0, 0
+  index: -1
+vs1
+  rotate: false
+  xy: 0, 1378
+  size: 765, 634
+  orig: 765, 634
+  offset: 0, 0
+  index: -1
+vs2
+  rotate: false
+  xy: 955, 0
+  size: 653, 436
+  orig: 653, 436
+  offset: 0, 0
+  index: -1
+
+lhd_animation_vs2.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 0, 482
+  size: 568, 480
+  orig: 568, 480
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 0, 0
+  size: 568, 480
+  orig: 568, 480
+  offset: 0, 0
+  index: -1

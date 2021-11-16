@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a8929b52-5ea5-4d84-a498-5425a7bc54ef",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 82,
+  "height": 82,
+  "platformSettings": {},
+  "subMetas": {
+    "bcbm_scarlogo8": {
+      "ver": "1.0.6",
+      "uuid": "acc60ef6-d6bb-4ca7-a461-1e88d366f19d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a8929b52-5ea5-4d84-a498-5425a7bc54ef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 7,
+      "trimY": 7,
+      "width": 68,
+      "height": 67,
+      "rawWidth": 82,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

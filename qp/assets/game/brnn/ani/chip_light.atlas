@@ -1,0 +1,265 @@
+
+chip_light.png
+size: 1668,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 228
+  size: 134, 121
+  orig: 140, 140
+  offset: 3, 10
+  index: -1
+light_001
+  rotate: false
+  xy: 2, 108
+  size: 126, 118
+  orig: 140, 140
+  offset: 7, 11
+  index: -1
+light_002
+  rotate: false
+  xy: 138, 233
+  size: 126, 116
+  orig: 140, 140
+  offset: 7, 12
+  index: -1
+light_003
+  rotate: false
+  xy: 266, 233
+  size: 126, 116
+  orig: 140, 140
+  offset: 7, 12
+  index: -1
+light_004
+  rotate: false
+  xy: 911, 234
+  size: 126, 115
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_005
+  rotate: false
+  xy: 394, 233
+  size: 126, 116
+  orig: 140, 140
+  offset: 7, 12
+  index: -1
+light_006
+  rotate: false
+  xy: 1039, 234
+  size: 126, 115
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_007
+  rotate: false
+  xy: 1167, 234
+  size: 126, 115
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_008
+  rotate: false
+  xy: 1295, 234
+  size: 126, 115
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_009
+  rotate: false
+  xy: 138, 117
+  size: 126, 114
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_010
+  rotate: false
+  xy: 266, 117
+  size: 126, 114
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_011
+  rotate: false
+  xy: 1423, 234
+  size: 126, 115
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_012
+  rotate: true
+  xy: 1551, 223
+  size: 126, 115
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_013
+  rotate: false
+  xy: 394, 116
+  size: 126, 115
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_014
+  rotate: false
+  xy: 778, 119
+  size: 125, 114
+  orig: 140, 140
+  offset: 8, 13
+  index: -1
+light_015
+  rotate: false
+  xy: 900, 2
+  size: 123, 114
+  orig: 140, 140
+  offset: 9, 13
+  index: -1
+light_016
+  rotate: false
+  xy: 1413, 118
+  size: 124, 114
+  orig: 140, 140
+  offset: 8, 13
+  index: -1
+light_017
+  rotate: false
+  xy: 522, 119
+  size: 126, 114
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_018
+  rotate: false
+  xy: 522, 235
+  size: 128, 114
+  orig: 140, 140
+  offset: 6, 13
+  index: -1
+light_019
+  rotate: false
+  xy: 652, 235
+  size: 128, 114
+  orig: 140, 140
+  offset: 6, 13
+  index: -1
+light_020
+  rotate: false
+  xy: 782, 235
+  size: 127, 114
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_021
+  rotate: false
+  xy: 650, 119
+  size: 126, 114
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+light_022
+  rotate: false
+  xy: 905, 118
+  size: 125, 114
+  orig: 140, 140
+  offset: 8, 13
+  index: -1
+light_023
+  rotate: false
+  xy: 1032, 118
+  size: 125, 114
+  orig: 140, 140
+  offset: 8, 13
+  index: -1
+light_024
+  rotate: false
+  xy: 1159, 118
+  size: 125, 114
+  orig: 140, 140
+  offset: 8, 13
+  index: -1
+light_025
+  rotate: false
+  xy: 522, 3
+  size: 124, 114
+  orig: 140, 140
+  offset: 8, 13
+  index: -1
+light_026
+  rotate: false
+  xy: 1539, 108
+  size: 125, 113
+  orig: 140, 140
+  offset: 8, 14
+  index: -1
+light_027
+  rotate: false
+  xy: 1025, 3
+  size: 124, 113
+  orig: 140, 140
+  offset: 8, 14
+  index: -1
+light_028
+  rotate: false
+  xy: 1286, 118
+  size: 125, 114
+  orig: 140, 140
+  offset: 8, 13
+  index: -1
+light_029
+  rotate: false
+  xy: 1151, 3
+  size: 124, 113
+  orig: 140, 140
+  offset: 8, 14
+  index: -1
+light_030
+  rotate: false
+  xy: 1403, 4
+  size: 124, 112
+  orig: 140, 140
+  offset: 8, 14
+  index: -1
+light_031
+  rotate: false
+  xy: 1277, 3
+  size: 124, 113
+  orig: 140, 140
+  offset: 8, 14
+  index: -1
+light_032
+  rotate: false
+  xy: 130, 3
+  size: 124, 112
+  orig: 140, 140
+  offset: 8, 14
+  index: -1
+light_033
+  rotate: false
+  xy: 382, 3
+  size: 124, 111
+  orig: 140, 140
+  offset: 8, 15
+  index: -1
+light_034
+  rotate: false
+  xy: 256, 3
+  size: 124, 112
+  orig: 140, 140
+  offset: 8, 14
+  index: -1
+light_035
+  rotate: false
+  xy: 648, 3
+  size: 124, 114
+  orig: 140, 140
+  offset: 8, 13
+  index: -1
+light_036
+  rotate: false
+  xy: 774, 2
+  size: 124, 115
+  orig: 140, 140
+  offset: 8, 13
+  index: -1

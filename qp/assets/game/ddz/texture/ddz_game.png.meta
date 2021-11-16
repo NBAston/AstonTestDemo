@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "39baf81f-ff21-4cd9-9c7c-3081f0fce24c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1480,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "ddz_game": {
+      "ver": "1.0.6",
+      "uuid": "24b0aaed-0c67-4c75-b0e0-88f63e364474",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "39baf81f-ff21-4cd9-9c7c-3081f0fce24c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1480,
+      "height": 720,
+      "rawWidth": 1480,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

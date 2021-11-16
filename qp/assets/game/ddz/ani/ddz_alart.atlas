@@ -1,0 +1,27 @@
+
+ddz_alart.png
+size: 156,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alart
+  rotate: true
+  xy: 2, 110
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 125, 87
+  orig: 132, 91
+  offset: 5, 2
+  index: -1
+light_01
+  rotate: true
+  xy: 64, 91
+  size: 62, 67
+  orig: 100, 120
+  offset: 19, 35
+  index: -1

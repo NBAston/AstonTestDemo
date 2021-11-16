@@ -1,0 +1,90 @@
+
+w_l_words.png
+size: 608,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10lians
+  rotate: false
+  xy: 384, 79
+  size: 224, 73
+  orig: 240, 94
+  offset: 8, 13
+  index: -1
+2lians
+  rotate: false
+  xy: 0, 229
+  size: 187, 73
+  orig: 240, 94
+  offset: 28, 10
+  index: -1
+3lians
+  rotate: false
+  xy: 189, 229
+  size: 187, 73
+  orig: 240, 94
+  offset: 28, 10
+  index: -1
+4lians
+  rotate: false
+  xy: 378, 229
+  size: 190, 73
+  orig: 240, 94
+  offset: 25, 10
+  index: -1
+5lians
+  rotate: false
+  xy: 0, 154
+  size: 191, 73
+  orig: 240, 94
+  offset: 27, 13
+  index: -1
+6lians
+  rotate: false
+  xy: 193, 154
+  size: 190, 73
+  orig: 240, 94
+  offset: 28, 13
+  index: -1
+7lians
+  rotate: false
+  xy: 385, 154
+  size: 186, 73
+  orig: 240, 94
+  offset: 32, 13
+  index: -1
+8lians
+  rotate: false
+  xy: 0, 79
+  size: 191, 73
+  orig: 240, 94
+  offset: 27, 13
+  index: -1
+9lians
+  rotate: false
+  xy: 193, 79
+  size: 189, 73
+  orig: 240, 94
+  offset: 29, 13
+  index: -1
+lanshibai
+  rotate: false
+  xy: 0, 4
+  size: 146, 73
+  orig: 240, 94
+  offset: 47, 14
+  index: -1
+lianszd
+  rotate: false
+  xy: 296, 0
+  size: 309, 77
+  orig: 314, 94
+  offset: 4, 11
+  index: -1
+shengli
+  rotate: false
+  xy: 148, 4
+  size: 146, 73
+  orig: 240, 94
+  offset: 47, 10
+  index: -1

@@ -1,0 +1,34 @@
+
+ninzuozhe.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 284, 14
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 115, 9
+  size: 107, 44
+  orig: 107, 44
+  offset: 0, 0
+  index: -1
+FG1
+  rotate: false
+  xy: 2, 2
+  size: 111, 51
+  orig: 111, 51
+  offset: 0, 0
+  index: -1
+FG2
+  rotate: false
+  xy: 224, 6
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1

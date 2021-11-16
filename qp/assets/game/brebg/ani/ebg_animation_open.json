@@ -1,0 +1,532 @@
+{
+"skeleton": { "hash": "zV2vG1GU7qCmylsr0Y1iLaguWQw", "spine": "3.7.91", "width": 86, "height": 133, "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "card", "parent": "root", "length": 30, "rotation": 90 },
+	{ "name": "card2", "parent": "root", "length": 15, "rotation": 89.01, "x": -0.2, "y": -0.18 }
+],
+"slots": [
+	{ "name": "skeleton", "bone": "card2", "attachment": "skeleton1" },
+	{ "name": "majiang", "bone": "card" }
+],
+"skins": {
+	"default": {
+		"majiang": {
+			"wanrenchang_majiang1": { "x": 3, "rotation": -90, "width": 64, "height": 82 },
+			"wanrenchang_majiang2": { "x": 3, "rotation": -90, "width": 64, "height": 82 },
+			"wanrenchang_majiang3": { "x": 3, "rotation": -90, "width": 64, "height": 82 },
+			"wanrenchang_majiang4": { "x": 3, "rotation": -90, "width": 64, "height": 82 },
+			"wanrenchang_majiang5": { "x": 3, "rotation": -90, "width": 64, "height": 82 },
+			"wanrenchang_majiang6": { "x": 3, "rotation": -90, "width": 64, "height": 82 },
+			"wanrenchang_majiang7": { "x": 3, "rotation": -90, "width": 64, "height": 82 },
+			"wanrenchang_majiang8": { "x": 3, "rotation": -90, "width": 64, "height": 82 },
+			"wanrenchang_majiang9": { "x": 3, "rotation": -90, "width": 64, "height": 82 },
+			"wanrenchang_majiangd": { "x": 3, "rotation": -90, "width": 64, "height": 82 }
+		},
+		"skeleton": {
+			"skeleton1": { "x": 0.19, "y": -0.2, "rotation": -89.01, "width": 86, "height": 133 },
+			"skeleton2": { "x": 0.69, "y": -0.19, "rotation": -89.01, "width": 86, "height": 133 },
+			"skeleton3": { "x": 0.69, "y": -0.19, "rotation": -89.01, "width": 86, "height": 133 },
+			"skeleton4": { "x": 0.69, "y": -0.19, "rotation": -89.01, "width": 86, "height": 133 },
+			"skeleton5": { "x": 0.69, "y": -0.19, "rotation": -89.01, "width": 86, "height": 133 },
+			"skeleton6": { "x": 0.69, "y": -0.19, "rotation": -89.01, "width": 86, "height": 133 },
+			"skeleton7": { "x": 0.69, "y": -0.19, "rotation": -89.01, "width": 86, "height": 133 },
+			"skeleton8": { "x": 0.69, "y": -0.19, "rotation": -89.01, "width": 86, "height": 133 },
+			"skeleton9": { "x": 0.69, "y": -0.19, "rotation": -89.01, "width": 86, "height": 133 }
+		}
+	}
+},
+"animations": {
+	"card_0": {
+		"slots": {
+			"majiang": {
+				"attachment": [
+					{ "time": 0.2, "name": "wanrenchang_majiangd" }
+				]
+			},
+			"skeleton": {
+				"attachment": [
+					{ "time": 0.0333, "name": "skeleton2" },
+					{ "time": 0.0667, "name": "skeleton3" },
+					{ "time": 0.1, "name": "skeleton4" },
+					{ "time": 0.1333, "name": "skeleton5" },
+					{ "time": 0.1667, "name": "skeleton6" },
+					{ "time": 0.2, "name": "skeleton7" },
+					{ "time": 0.2333, "name": "skeleton8" },
+					{ "time": 0.2667, "name": "skeleton9" }
+				]
+			}
+		},
+		"bones": {
+			"card": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -18, "y": 5 },
+					{ "time": 0.2333, "x": -8.06, "y": 6.5 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 45.32 },
+					{ "time": 0.2333, "x": 0, "y": 9.06 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"card2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.2, "y": 1.2 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"card_1": {
+		"slots": {
+			"majiang": {
+				"attachment": [
+					{ "time": 0.2, "name": "wanrenchang_majiang1" }
+				]
+			},
+			"skeleton": {
+				"attachment": [
+					{ "time": 0.0333, "name": "skeleton2" },
+					{ "time": 0.0667, "name": "skeleton3" },
+					{ "time": 0.1, "name": "skeleton4" },
+					{ "time": 0.1333, "name": "skeleton5" },
+					{ "time": 0.1667, "name": "skeleton6" },
+					{ "time": 0.2, "name": "skeleton7" },
+					{ "time": 0.2333, "name": "skeleton8" },
+					{ "time": 0.2667, "name": "skeleton9" }
+				]
+			}
+		},
+		"bones": {
+			"card": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -18, "y": 5 },
+					{ "time": 0.2333, "x": -8.06, "y": 6.5 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 45.32 },
+					{ "time": 0.2333, "x": 0, "y": 9.06 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"card2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.2, "y": 1.2 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"card_2": {
+		"slots": {
+			"majiang": {
+				"attachment": [
+					{ "time": 0.2, "name": "wanrenchang_majiang2" }
+				]
+			},
+			"skeleton": {
+				"attachment": [
+					{ "time": 0.0333, "name": "skeleton2" },
+					{ "time": 0.0667, "name": "skeleton3" },
+					{ "time": 0.1, "name": "skeleton4" },
+					{ "time": 0.1333, "name": "skeleton5" },
+					{ "time": 0.1667, "name": "skeleton6" },
+					{ "time": 0.2, "name": "skeleton7" },
+					{ "time": 0.2333, "name": "skeleton8" },
+					{ "time": 0.2667, "name": "skeleton9" }
+				]
+			}
+		},
+		"bones": {
+			"card": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -18, "y": 5 },
+					{ "time": 0.2333, "x": -8.06, "y": 6.5 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 45.32 },
+					{ "time": 0.2333, "x": 0, "y": 9.06 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"card2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.2, "y": 1.2 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"card_3": {
+		"slots": {
+			"majiang": {
+				"attachment": [
+					{ "time": 0.2, "name": "wanrenchang_majiang3" }
+				]
+			},
+			"skeleton": {
+				"attachment": [
+					{ "time": 0.0333, "name": "skeleton2" },
+					{ "time": 0.0667, "name": "skeleton3" },
+					{ "time": 0.1, "name": "skeleton4" },
+					{ "time": 0.1333, "name": "skeleton5" },
+					{ "time": 0.1667, "name": "skeleton6" },
+					{ "time": 0.2, "name": "skeleton7" },
+					{ "time": 0.2333, "name": "skeleton8" },
+					{ "time": 0.2667, "name": "skeleton9" }
+				]
+			}
+		},
+		"bones": {
+			"card": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -18, "y": 5 },
+					{ "time": 0.2333, "x": -8.06, "y": 6.5 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 45.32 },
+					{ "time": 0.2333, "x": 0, "y": 9.06 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"card2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.2, "y": 1.2 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"card_4": {
+		"slots": {
+			"majiang": {
+				"attachment": [
+					{ "time": 0.2, "name": "wanrenchang_majiang4" }
+				]
+			},
+			"skeleton": {
+				"attachment": [
+					{ "time": 0.0333, "name": "skeleton2" },
+					{ "time": 0.0667, "name": "skeleton3" },
+					{ "time": 0.1, "name": "skeleton4" },
+					{ "time": 0.1333, "name": "skeleton5" },
+					{ "time": 0.1667, "name": "skeleton6" },
+					{ "time": 0.2, "name": "skeleton7" },
+					{ "time": 0.2333, "name": "skeleton8" },
+					{ "time": 0.2667, "name": "skeleton9" }
+				]
+			}
+		},
+		"bones": {
+			"card": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -18, "y": 5 },
+					{ "time": 0.2333, "x": -8.06, "y": 6.5 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 45.32 },
+					{ "time": 0.2333, "x": 0, "y": 9.06 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"card2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.2, "y": 1.2 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"card_5": {
+		"slots": {
+			"majiang": {
+				"attachment": [
+					{ "time": 0.2, "name": "wanrenchang_majiang5" }
+				]
+			},
+			"skeleton": {
+				"attachment": [
+					{ "time": 0.0333, "name": "skeleton2" },
+					{ "time": 0.0667, "name": "skeleton3" },
+					{ "time": 0.1, "name": "skeleton4" },
+					{ "time": 0.1333, "name": "skeleton5" },
+					{ "time": 0.1667, "name": "skeleton6" },
+					{ "time": 0.2, "name": "skeleton7" },
+					{ "time": 0.2333, "name": "skeleton8" },
+					{ "time": 0.2667, "name": "skeleton9" }
+				]
+			}
+		},
+		"bones": {
+			"card": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -18, "y": 5 },
+					{ "time": 0.2333, "x": -8.06, "y": 6.5 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 45.32 },
+					{ "time": 0.2333, "x": 0, "y": 9.06 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"card2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.2, "y": 1.2 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"card_6": {
+		"slots": {
+			"majiang": {
+				"attachment": [
+					{ "time": 0.2, "name": "wanrenchang_majiang6" }
+				]
+			},
+			"skeleton": {
+				"attachment": [
+					{ "time": 0.0333, "name": "skeleton2" },
+					{ "time": 0.0667, "name": "skeleton3" },
+					{ "time": 0.1, "name": "skeleton4" },
+					{ "time": 0.1333, "name": "skeleton5" },
+					{ "time": 0.1667, "name": "skeleton6" },
+					{ "time": 0.2, "name": "skeleton7" },
+					{ "time": 0.2333, "name": "skeleton8" },
+					{ "time": 0.2667, "name": "skeleton9" }
+				]
+			}
+		},
+		"bones": {
+			"card": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -18, "y": 5 },
+					{ "time": 0.2333, "x": -8.06, "y": 6.5 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 45.32 },
+					{ "time": 0.2333, "x": 0, "y": 9.06 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"card2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.2, "y": 1.2 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"card_7": {
+		"slots": {
+			"majiang": {
+				"attachment": [
+					{ "time": 0.2, "name": "wanrenchang_majiang7" }
+				]
+			},
+			"skeleton": {
+				"attachment": [
+					{ "time": 0.0333, "name": "skeleton2" },
+					{ "time": 0.0667, "name": "skeleton3" },
+					{ "time": 0.1, "name": "skeleton4" },
+					{ "time": 0.1333, "name": "skeleton5" },
+					{ "time": 0.1667, "name": "skeleton6" },
+					{ "time": 0.2, "name": "skeleton7" },
+					{ "time": 0.2333, "name": "skeleton8" },
+					{ "time": 0.2667, "name": "skeleton9" }
+				]
+			}
+		},
+		"bones": {
+			"card": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -18, "y": 5 },
+					{ "time": 0.2333, "x": -8.06, "y": 6.5 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 45.32 },
+					{ "time": 0.2333, "x": 0, "y": 9.06 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"card2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.2, "y": 1.2 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"card_8": {
+		"slots": {
+			"majiang": {
+				"attachment": [
+					{ "time": 0.2, "name": "wanrenchang_majiang8" }
+				]
+			},
+			"skeleton": {
+				"attachment": [
+					{ "time": 0.0333, "name": "skeleton2" },
+					{ "time": 0.0667, "name": "skeleton3" },
+					{ "time": 0.1, "name": "skeleton4" },
+					{ "time": 0.1333, "name": "skeleton5" },
+					{ "time": 0.1667, "name": "skeleton6" },
+					{ "time": 0.2, "name": "skeleton7" },
+					{ "time": 0.2333, "name": "skeleton8" },
+					{ "time": 0.2667, "name": "skeleton9" }
+				]
+			}
+		},
+		"bones": {
+			"card": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -18, "y": 5 },
+					{ "time": 0.2333, "x": -8.06, "y": 6.5 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 45.32 },
+					{ "time": 0.2333, "x": 0, "y": 9.06 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"card2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.2, "y": 1.2 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"card_9": {
+		"slots": {
+			"majiang": {
+				"attachment": [
+					{ "time": 0.2, "name": "wanrenchang_majiang9" }
+				]
+			},
+			"skeleton": {
+				"attachment": [
+					{ "time": 0.0333, "name": "skeleton2" },
+					{ "time": 0.0667, "name": "skeleton3" },
+					{ "time": 0.1, "name": "skeleton4" },
+					{ "time": 0.1333, "name": "skeleton5" },
+					{ "time": 0.1667, "name": "skeleton6" },
+					{ "time": 0.2, "name": "skeleton7" },
+					{ "time": 0.2333, "name": "skeleton8" },
+					{ "time": 0.2667, "name": "skeleton9" }
+				]
+			}
+		},
+		"bones": {
+			"card": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -18, "y": 5 },
+					{ "time": 0.2333, "x": -8.06, "y": 6.5 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 45.32 },
+					{ "time": 0.2333, "x": 0, "y": 9.06 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"card2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.2, "y": 1.2 },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"card_b": {}
+}
+}

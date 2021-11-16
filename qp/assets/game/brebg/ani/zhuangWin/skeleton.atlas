@@ -1,0 +1,26 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GlowPurple_00000
+  rotate: false
+  xy: 561, 42
+  size: 126, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+xingxing
+  rotate: false
+  xy: 393, 2
+  size: 166, 166
+  orig: 172, 172
+  offset: 4, 2
+  index: -1
+zhuangjiatongsha
+  rotate: false
+  xy: 2, 17
+  size: 389, 151
+  orig: 389, 151
+  offset: 0, 0
+  index: -1

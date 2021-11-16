@@ -1,0 +1,132 @@
+
+kstz.png
+size: 1456,1456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_01_01
+  rotate: false
+  xy: 729, 913
+  size: 675, 129
+  orig: 801, 210
+  offset: 121, 37
+  index: -1
+bg_01_02
+  rotate: false
+  xy: 2, 903
+  size: 675, 129
+  orig: 801, 210
+  offset: 121, 37
+  index: -1
+bg_01_03
+  rotate: false
+  xy: 679, 782
+  size: 675, 129
+  orig: 801, 210
+  offset: 121, 37
+  index: -1
+bg_02_01
+  rotate: false
+  xy: 729, 1178
+  size: 725, 132
+  orig: 801, 210
+  offset: 61, 68
+  index: -1
+bg_02_02
+  rotate: false
+  xy: 729, 1044
+  size: 725, 132
+  orig: 801, 210
+  offset: 61, 68
+  index: -1
+bg_02_03
+  rotate: false
+  xy: 2, 1034
+  size: 725, 132
+  orig: 801, 210
+  offset: 61, 68
+  index: -1
+bg_03_01
+  rotate: false
+  xy: 2, 1312
+  size: 725, 142
+  orig: 801, 210
+  offset: 61, 58
+  index: -1
+bg_03_02
+  rotate: false
+  xy: 729, 1312
+  size: 725, 142
+  orig: 801, 210
+  offset: 61, 58
+  index: -1
+bg_03_03
+  rotate: false
+  xy: 2, 1168
+  size: 725, 142
+  orig: 801, 210
+  offset: 61, 58
+  index: -1
+car_01
+  rotate: false
+  xy: 2, 715
+  size: 469, 186
+  orig: 469, 210
+  offset: 0, 0
+  index: -1
+car_02
+  rotate: false
+  xy: 2, 537
+  size: 320, 176
+  orig: 336, 186
+  offset: 16, 3
+  index: -1
+car_03
+  rotate: false
+  xy: 473, 603
+  size: 336, 177
+  orig: 336, 186
+  offset: 0, 0
+  index: -1
+words_01
+  rotate: false
+  xy: 811, 618
+  size: 290, 80
+  orig: 301, 90
+  offset: 3, 5
+  index: -1
+words_02
+  rotate: false
+  xy: 811, 700
+  size: 292, 80
+  orig: 301, 90
+  offset: 2, 5
+  index: -1
+words_03
+  rotate: false
+  xy: 1105, 700
+  size: 292, 80
+  orig: 301, 90
+  offset: 2, 5
+  index: -1
+words_light_01
+  rotate: false
+  xy: 811, 542
+  size: 289, 74
+  orig: 301, 90
+  offset: 3, 11
+  index: -1
+words_light_02
+  rotate: false
+  xy: 1103, 623
+  size: 290, 75
+  orig: 301, 90
+  offset: 3, 10
+  index: -1
+words_light_03
+  rotate: false
+  xy: 1103, 546
+  size: 290, 75
+  orig: 301, 90
+  offset: 3, 10
+  index: -1

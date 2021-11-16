@@ -1,0 +1,139 @@
+
+ebg_animation_open.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skeleton1
+  rotate: false
+  xy: 0, 358
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+skeleton2
+  rotate: false
+  xy: 0, 223
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+skeleton3
+  rotate: false
+  xy: 88, 358
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+skeleton4
+  rotate: false
+  xy: 0, 88
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+skeleton5
+  rotate: false
+  xy: 88, 223
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+skeleton6
+  rotate: false
+  xy: 176, 358
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+skeleton7
+  rotate: false
+  xy: 88, 88
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+skeleton8
+  rotate: true
+  xy: 0, 0
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+skeleton9
+  rotate: false
+  xy: 176, 223
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+wanrenchang_majiang1
+  rotate: false
+  xy: 176, 139
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+wanrenchang_majiang2
+  rotate: false
+  xy: 264, 325
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+wanrenchang_majiang3
+  rotate: false
+  xy: 330, 409
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+wanrenchang_majiang4
+  rotate: false
+  xy: 264, 241
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+wanrenchang_majiang5
+  rotate: false
+  xy: 330, 325
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+wanrenchang_majiang6
+  rotate: false
+  xy: 396, 409
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+wanrenchang_majiang7
+  rotate: false
+  xy: 330, 241
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+wanrenchang_majiang8
+  rotate: false
+  xy: 396, 325
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+wanrenchang_majiang9
+  rotate: false
+  xy: 396, 241
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+wanrenchang_majiangd
+  rotate: false
+  xy: 264, 409
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1

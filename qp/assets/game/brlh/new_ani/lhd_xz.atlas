@@ -1,0 +1,34 @@
+
+lhd_xz.png
+size: 984,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 193
+  size: 981, 148
+  orig: 1480, 228
+  offset: 242, 41
+  index: -1
+light_01
+  rotate: false
+  xy: 0, 74
+  size: 402, 117
+  orig: 1400, 400
+  offset: 499, 141
+  index: -1
+word_ksxz
+  rotate: false
+  xy: 404, 97
+  size: 442, 94
+  orig: 453, 119
+  offset: 6, 15
+  index: -1
+word_tzxz
+  rotate: false
+  xy: 404, 0
+  size: 441, 95
+  orig: 453, 119
+  offset: 8, 14
+  index: -1

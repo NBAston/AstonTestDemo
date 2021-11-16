@@ -1,0 +1,244 @@
+
+ddz_win_lose_boy_01.png
+size: 1860,1416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boy_01/body
+  rotate: false
+  xy: 1654, 1132
+  size: 201, 282
+  orig: 201, 282
+  offset: 0, 0
+  index: -1
+boy_01/boy_01
+  rotate: false
+  xy: 1104, 804
+  size: 548, 610
+  orig: 563, 623
+  offset: 5, 0
+  index: -1
+boy_01/cloth_01
+  rotate: false
+  xy: 1077, 74
+  size: 209, 101
+  orig: 209, 101
+  offset: 0, 0
+  index: -1
+boy_01/cloth_02
+  rotate: false
+  xy: 1553, 480
+  size: 300, 312
+  orig: 300, 312
+  offset: 0, 0
+  index: -1
+boy_01/finger_01
+  rotate: true
+  xy: 1800, 1062
+  size: 68, 54
+  orig: 68, 56
+  offset: 0, 2
+  index: -1
+boy_01/finger_02
+  rotate: true
+  xy: 1049, 21
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+boy_01/finger_03
+  rotate: true
+  xy: 1446, 481
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+boy_01/finger_04
+  rotate: true
+  xy: 1656, 178
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+boy_01/hair
+  rotate: false
+  xy: 935, 6
+  size: 112, 75
+  orig: 112, 77
+  offset: 0, 2
+  index: -1
+boy_01/head
+  rotate: true
+  xy: 1711, 129
+  size: 112, 130
+  orig: 112, 130
+  offset: 0, 0
+  index: -1
+boy_01/left_arm
+  rotate: false
+  xy: 1288, 61
+  size: 216, 159
+  orig: 216, 159
+  offset: 0, 0
+  index: -1
+boy_01/leg
+  rotate: false
+  xy: 1104, 531
+  size: 447, 271
+  orig: 447, 271
+  offset: 0, 0
+  index: -1
+boy_01/right_arm
+  rotate: true
+  xy: 1077, 177
+  size: 273, 172
+  orig: 273, 174
+  offset: 0, 2
+  index: -1
+boy_01/tear
+  rotate: true
+  xy: 1506, 61
+  size: 7, 38
+  orig: 14, 38
+  offset: 4, 0
+  index: -1
+gold_01
+  rotate: false
+  xy: 1251, 190
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+gold_02
+  rotate: false
+  xy: 1800, 1030
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+gold_03
+  rotate: false
+  xy: 1531, 499
+  size: 20, 30
+  orig: 30, 30
+  offset: 5, 0
+  index: -1
+gold_04
+  rotate: true
+  xy: 1553, 794
+  size: 8, 30
+  orig: 30, 30
+  offset: 11, 0
+  index: -1
+gold_05
+  rotate: true
+  xy: 1446, 458
+  size: 21, 30
+  orig: 30, 30
+  offset: 4, 0
+  index: -1
+gold_06
+  rotate: false
+  xy: 1499, 499
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+lose_bg_light
+  rotate: false
+  xy: 1251, 222
+  size: 233, 234
+  orig: 280, 280
+  offset: 24, 22
+  index: -1
+lose_box
+  rotate: false
+  xy: 2, 934
+  size: 1100, 480
+  orig: 1100, 480
+  offset: 0, 0
+  index: -1
+lose_top_box
+  rotate: false
+  xy: 593, 10
+  size: 340, 71
+  orig: 350, 76
+  offset: 5, 2
+  index: -1
+lose_ye
+  rotate: true
+  xy: 1654, 794
+  size: 336, 144
+  orig: 336, 144
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 1656, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1800, 1001
+  size: 27, 27
+  orig: 32, 32
+  offset: 2, 2
+  index: -1
+win_bg_light
+  rotate: false
+  xy: 1486, 244
+  size: 233, 234
+  orig: 280, 280
+  offset: 24, 22
+  index: -1
+win_box
+  rotate: false
+  xy: 2, 452
+  size: 1100, 480
+  orig: 1100, 480
+  offset: 0, 0
+  index: -1
+win_top_box
+  rotate: false
+  xy: 1104, 458
+  size: 340, 71
+  orig: 350, 76
+  offset: 5, 2
+  index: -1
+win_ye_01
+  rotate: true
+  xy: 1721, 243
+  size: 235, 106
+  orig: 235, 106
+  offset: 0, 0
+  index: -1
+win_ye_02
+  rotate: false
+  xy: 1506, 70
+  size: 156, 72
+  orig: 156, 72
+  offset: 0, 0
+  index: -1
+win_ye_03
+  rotate: false
+  xy: 1506, 144
+  size: 148, 98
+  orig: 148, 98
+  offset: 0, 0
+  index: -1
+yudi
+  rotate: false
+  xy: 2, 2
+  size: 589, 448
+  orig: 590, 449
+  offset: 1, 1
+  index: -1
+zs_01
+  rotate: false
+  xy: 593, 83
+  size: 482, 367
+  orig: 590, 449
+  offset: 24, 51
+  index: -1

@@ -1,0 +1,41 @@
+
+baomagai.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D1
+  rotate: false
+  xy: 570, 227
+  size: 480, 251
+  orig: 480, 251
+  offset: 0, 0
+  index: -1
+D2
+  rotate: false
+  xy: 1052, 284
+  size: 370, 194
+  orig: 370, 194
+  offset: 0, 0
+  index: -1
+baomaB
+  rotate: false
+  xy: 374, 127
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+baomaC
+  rotate: false
+  xy: 2, 211
+  size: 566, 267
+  orig: 566, 267
+  offset: 0, 0
+  index: -1
+ruoweiB2
+  rotate: false
+  xy: 2, 2
+  size: 370, 207
+  orig: 370, 207
+  offset: 0, 0
+  index: -1
