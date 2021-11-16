@@ -1,0 +1,20 @@
+
+game_animation_choesechip.png
+size: 512,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+choese
+  rotate: false
+  xy: 160, 0
+  size: 158, 154
+  orig: 158, 154
+  offset: 0, 0
+  index: -1
+choeselight
+  rotate: false
+  xy: 0, 0
+  size: 158, 154
+  orig: 158, 154
+  offset: 0, 0
+  index: -1

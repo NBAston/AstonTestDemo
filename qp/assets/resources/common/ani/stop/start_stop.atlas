@@ -1,0 +1,27 @@
+
+start_stop.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 286
+  size: 981, 190
+  orig: 981, 190
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 0, 0
+  size: 483, 141
+  orig: 483, 141
+  offset: 0, 0
+  index: -1
+stop
+  rotate: false
+  xy: 0, 143
+  size: 483, 141
+  orig: 483, 141
+  offset: 0, 0
+  index: -1

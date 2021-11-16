@@ -1,0 +1,125 @@
+
+xuanpainiuniu.png
+size: 568,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_black
+  rotate: false
+  xy: 2, 4
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+bg_yellow
+  rotate: false
+  xy: 146, 4
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+bizi_01
+  rotate: false
+  xy: 290, 3
+  size: 15, 11
+  orig: 16, 13
+  offset: 0, 1
+  index: -1
+bizi_02
+  rotate: true
+  xy: 523, 6
+  size: 15, 13
+  orig: 18, 16
+  offset: 2, 1
+  index: -1
+body
+  rotate: false
+  xy: 323, 45
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+bp
+  rotate: false
+  xy: 462, 64
+  size: 36, 62
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 402, 8
+  size: 68, 36
+  orig: 80, 40
+  offset: 6, 0
+  index: -1
+hair
+  rotate: false
+  xy: 472, 2
+  size: 31, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 507, 23
+  size: 47, 50
+  orig: 76, 76
+  offset: 14, 14
+  index: -1
+hand_light
+  rotate: true
+  xy: 507, 72
+  size: 54, 57
+  orig: 76, 76
+  offset: 11, 10
+  index: -1
+head
+  rotate: true
+  xy: 392, 46
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+lianzi
+  rotate: false
+  xy: 472, 23
+  size: 31, 21
+  orig: 31, 22
+  offset: 0, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 462, 46
+  size: 43, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+pai_01
+  rotate: true
+  xy: 357, 6
+  size: 37, 43
+  orig: 38, 48
+  offset: 0, 3
+  index: -1
+pai_02
+  rotate: false
+  xy: 323, 4
+  size: 32, 39
+  orig: 32, 46
+  offset: 0, 4
+  index: -1
+qi
+  rotate: true
+  xy: 505, 4
+  size: 17, 16
+  orig: 30, 30
+  offset: 6, 8
+  index: -1
+word_xpnn
+  rotate: true
+  xy: 290, 16
+  size: 110, 31
+  orig: 110, 40
+  offset: 0, 4
+  index: -1

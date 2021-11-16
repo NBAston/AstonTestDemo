@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "747759b5-ba6b-458b-ac5b-e9f4ce4e06d0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 127,
+  "height": 33,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_account_register": {
+      "ver": "1.0.6",
+      "uuid": "ec8296db-3cb9-417e-830d-5ead676ce8e8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "747759b5-ba6b-458b-ac5b-e9f4ce4e06d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 127,
+      "height": 33,
+      "rawWidth": 127,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

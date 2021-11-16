@@ -1,0 +1,90 @@
+
+xuanpaijinhua1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PD1
+  rotate: false
+  xy: 86, 71
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+PD2
+  rotate: false
+  xy: 2, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+PP1
+  rotate: false
+  xy: 2, 101
+  size: 155, 150
+  orig: 155, 150
+  offset: 0, 0
+  index: -1
+chouma1
+  rotate: false
+  xy: 260, 387
+  size: 128, 122
+  orig: 128, 122
+  offset: 0, 0
+  index: -1
+chouma2
+  rotate: false
+  xy: 260, 281
+  size: 117, 104
+  orig: 117, 104
+  offset: 0, 0
+  index: -1
+huohua1/H1
+  rotate: false
+  xy: 159, 142
+  size: 93, 109
+  orig: 93, 109
+  offset: 0, 0
+  index: -1
+huohua1/H2
+  rotate: false
+  xy: 159, 36
+  size: 93, 104
+  orig: 93, 109
+  offset: 0, 2
+  index: -1
+huohua1/H3
+  rotate: false
+  xy: 390, 400
+  size: 93, 109
+  orig: 93, 109
+  offset: 0, 0
+  index: -1
+huohua1/H4
+  rotate: false
+  xy: 260, 170
+  size: 90, 109
+  orig: 93, 109
+  offset: 0, 0
+  index: -1
+huohua1/H5
+  rotate: false
+  xy: 254, 60
+  size: 90, 108
+  orig: 93, 109
+  offset: 0, 1
+  index: -1
+liziG2
+  rotate: false
+  xy: 2, 253
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+zhadan1
+  rotate: false
+  xy: 2, 35
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1

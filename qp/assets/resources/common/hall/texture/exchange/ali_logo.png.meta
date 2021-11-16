@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e90c780e-ad85-4e10-ad84-65776b1309df",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 75,
+  "height": 75,
+  "platformSettings": {},
+  "subMetas": {
+    "ali_logo": {
+      "ver": "1.0.6",
+      "uuid": "09d8368e-5710-4dca-ad80-709ae45c894a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e90c780e-ad85-4e10-ad84-65776b1309df",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 75,
+      "height": 75,
+      "rawWidth": 75,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

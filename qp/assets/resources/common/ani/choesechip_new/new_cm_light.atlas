@@ -1,0 +1,272 @@
+
+new_cm_light.png
+size: 960,960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fang_bg
+  rotate: false
+  xy: 301, 68
+  size: 143, 137
+  orig: 180, 180
+  offset: 19, 22
+  index: -1
+fang_light_001
+  rotate: true
+  xy: 440, 502
+  size: 163, 111
+  orig: 180, 180
+  offset: 9, 34
+  index: -1
+fang_light_002
+  rotate: false
+  xy: 332, 667
+  size: 158, 134
+  orig: 180, 180
+  offset: 12, 23
+  index: -1
+fang_light_003
+  rotate: true
+  xy: 2, 41
+  size: 152, 148
+  orig: 180, 180
+  offset: 14, 16
+  index: -1
+fang_light_004
+  rotate: false
+  xy: 2, 509
+  size: 152, 155
+  orig: 180, 180
+  offset: 14, 13
+  index: -1
+fang_light_005
+  rotate: false
+  xy: 2, 352
+  size: 152, 155
+  orig: 180, 180
+  offset: 14, 13
+  index: -1
+fang_light_006
+  rotate: false
+  xy: 332, 803
+  size: 151, 155
+  orig: 180, 180
+  offset: 15, 13
+  index: -1
+fang_light_007
+  rotate: false
+  xy: 2, 195
+  size: 150, 155
+  orig: 180, 180
+  offset: 15, 13
+  index: -1
+fang_light_008
+  rotate: true
+  xy: 492, 669
+  size: 145, 155
+  orig: 180, 180
+  offset: 18, 13
+  index: -1
+fang_light_009
+  rotate: false
+  xy: 156, 344
+  size: 130, 155
+  orig: 180, 180
+  offset: 25, 13
+  index: -1
+fang_light_010
+  rotate: false
+  xy: 553, 512
+  size: 110, 155
+  orig: 180, 180
+  offset: 35, 13
+  index: -1
+fang_light_011
+  rotate: false
+  xy: 589, 211
+  size: 129, 152
+  orig: 180, 180
+  offset: 26, 14
+  index: -1
+fang_light_012
+  rotate: true
+  xy: 154, 193
+  size: 149, 145
+  orig: 180, 180
+  offset: 16, 18
+  index: -1
+fang_light_013
+  rotate: false
+  xy: 2, 813
+  size: 163, 145
+  orig: 180, 180
+  offset: 9, 18
+  index: -1
+fang_light_014
+  rotate: false
+  xy: 2, 666
+  size: 163, 145
+  orig: 180, 180
+  offset: 9, 18
+  index: -1
+fang_light_015
+  rotate: false
+  xy: 167, 813
+  size: 163, 145
+  orig: 180, 180
+  offset: 9, 18
+  index: -1
+fang_light_016
+  rotate: false
+  xy: 167, 667
+  size: 163, 144
+  orig: 180, 180
+  offset: 9, 18
+  index: -1
+fang_light_017
+  rotate: false
+  xy: 485, 816
+  size: 163, 142
+  orig: 180, 180
+  offset: 9, 19
+  index: -1
+fang_light_018
+  rotate: true
+  xy: 156, 501
+  size: 163, 128
+  orig: 180, 180
+  offset: 9, 26
+  index: -1
+yuan_bg
+  rotate: true
+  xy: 152, 41
+  size: 150, 143
+  orig: 180, 180
+  offset: 15, 19
+  index: -1
+yuan_light_001
+  rotate: true
+  xy: 301, 207
+  size: 155, 140
+  orig: 180, 180
+  offset: 12, 20
+  index: -1
+yuan_light_002
+  rotate: false
+  xy: 805, 522
+  size: 152, 134
+  orig: 180, 180
+  offset: 14, 23
+  index: -1
+yuan_light_003
+  rotate: true
+  xy: 721, 364
+  size: 152, 125
+  orig: 180, 180
+  offset: 14, 27
+  index: -1
+yuan_light_004
+  rotate: true
+  xy: 843, 56
+  size: 152, 115
+  orig: 180, 180
+  offset: 14, 32
+  index: -1
+yuan_light_005
+  rotate: true
+  xy: 720, 210
+  size: 152, 128
+  orig: 180, 180
+  offset: 14, 26
+  index: -1
+yuan_light_006
+  rotate: true
+  xy: 665, 518
+  size: 152, 138
+  orig: 180, 180
+  offset: 14, 21
+  index: -1
+yuan_light_007
+  rotate: false
+  xy: 286, 519
+  size: 152, 146
+  orig: 180, 180
+  offset: 14, 17
+  index: -1
+yuan_light_008
+  rotate: false
+  xy: 808, 658
+  size: 150, 148
+  orig: 180, 180
+  offset: 15, 16
+  index: -1
+yuan_light_009
+  rotate: false
+  xy: 809, 808
+  size: 149, 150
+  orig: 180, 180
+  offset: 15, 15
+  index: -1
+yuan_light_010
+  rotate: false
+  xy: 443, 215
+  size: 144, 148
+  orig: 180, 180
+  offset: 18, 16
+  index: -1
+yuan_light_011
+  rotate: false
+  xy: 581, 365
+  size: 138, 145
+  orig: 180, 180
+  offset: 21, 18
+  index: -1
+yuan_light_012
+  rotate: false
+  xy: 446, 68
+  size: 127, 145
+  orig: 180, 180
+  offset: 27, 18
+  index: -1
+yuan_light_013
+  rotate: false
+  xy: 575, 64
+  size: 119, 145
+  orig: 180, 180
+  offset: 30, 18
+  index: -1
+yuan_light_014
+  rotate: true
+  xy: 434, 365
+  size: 135, 145
+  orig: 180, 180
+  offset: 22, 18
+  index: -1
+yuan_light_015
+  rotate: false
+  xy: 696, 63
+  size: 145, 145
+  orig: 180, 180
+  offset: 17, 18
+  index: -1
+yuan_light_016
+  rotate: true
+  xy: 288, 364
+  size: 153, 144
+  orig: 180, 180
+  offset: 13, 18
+  index: -1
+yuan_light_017
+  rotate: false
+  xy: 650, 816
+  size: 157, 142
+  orig: 180, 180
+  offset: 11, 19
+  index: -1
+yuan_light_018
+  rotate: false
+  xy: 649, 672
+  size: 157, 142
+  orig: 180, 180
+  offset: 11, 19
+  index: -1

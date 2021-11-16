@@ -1,0 +1,111 @@
+
+center_animation_loading.png
+size: 2048,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+gameloding0001
+  rotate: true
+  xy: 132, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding00010
+  rotate: true
+  xy: 1320, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding00011
+  rotate: true
+  xy: 1452, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding00012
+  rotate: true
+  xy: 1584, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding00013
+  rotate: true
+  xy: 0, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding00014
+  rotate: false
+  xy: 0, 0
+  size: 190, 38
+  orig: 190, 38
+  offset: 0, 0
+  index: -1
+gameloding00015
+  rotate: false
+  xy: 192, 0
+  size: 190, 38
+  orig: 190, 38
+  offset: 0, 0
+  index: -1
+gameloding0002
+  rotate: true
+  xy: 264, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding0003
+  rotate: true
+  xy: 396, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding0004
+  rotate: true
+  xy: 528, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding0005
+  rotate: true
+  xy: 660, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding0006
+  rotate: true
+  xy: 792, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding0007
+  rotate: true
+  xy: 924, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding0008
+  rotate: true
+  xy: 1056, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+gameloding0009
+  rotate: true
+  xy: 1188, 40
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1

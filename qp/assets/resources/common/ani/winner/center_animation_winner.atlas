@@ -1,0 +1,27 @@
+
+center_animation_winner.png
+size: 256,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+img_light1
+  rotate: false
+  xy: 0, 122
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+img_light2
+  rotate: false
+  xy: 0, 0
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+img_light3
+  rotate: false
+  xy: 124, 207
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

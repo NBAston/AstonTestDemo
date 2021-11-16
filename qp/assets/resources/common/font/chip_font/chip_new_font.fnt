@@ -1,0 +1,17 @@
+info face="face" size=132
+common lineHeight=132 scaleW=546 scaleH=534 pages=1
+page id=0 file="chip_new_font.png"
+chars count=13
+char id=97 x=0 y=0 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=98 x=137 y=0 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=99 x=0 y=134 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=100 x=137 y=134 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=101 x=274 y=0 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=102 x=274 y=134 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=103 x=0 y=268 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=104 x=137 y=268 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=105 x=274 y=268 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=106 x=411 y=0 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=107 x=411 y=134 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=108 x=411 y=268 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15
+char id=109 x=0 y=402 width=135 height=132 xoffset=0 yoffset=0 xadvance=135 page=0 chnl=15

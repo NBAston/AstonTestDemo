@@ -1,0 +1,405 @@
+
+tongbijinhua.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+222
+  rotate: false
+  xy: 2, 578
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+HHH/0001
+  rotate: false
+  xy: 2, 98
+  size: 122, 118
+  orig: 140, 130
+  offset: 9, 1
+  index: -1
+HHH/0002
+  rotate: false
+  xy: 2, 98
+  size: 122, 118
+  orig: 140, 130
+  offset: 9, 1
+  index: -1
+HHH/0003
+  rotate: false
+  xy: 516, 898
+  size: 124, 118
+  orig: 140, 130
+  offset: 8, 1
+  index: -1
+HHH/0004
+  rotate: false
+  xy: 2, 218
+  size: 124, 118
+  orig: 140, 130
+  offset: 8, 1
+  index: -1
+HHH/0005
+  rotate: false
+  xy: 2, 338
+  size: 125, 118
+  orig: 140, 130
+  offset: 7, 1
+  index: -1
+HHH/0006
+  rotate: false
+  xy: 260, 898
+  size: 126, 118
+  orig: 140, 130
+  offset: 7, 1
+  index: -1
+HHH/0007
+  rotate: false
+  xy: 2, 458
+  size: 126, 118
+  orig: 140, 130
+  offset: 7, 1
+  index: -1
+HHH/0008
+  rotate: false
+  xy: 388, 778
+  size: 125, 118
+  orig: 140, 130
+  offset: 8, 1
+  index: -1
+HHH/0009
+  rotate: false
+  xy: 260, 778
+  size: 126, 118
+  orig: 140, 130
+  offset: 8, 1
+  index: -1
+HHH/0010
+  rotate: false
+  xy: 388, 898
+  size: 126, 118
+  orig: 140, 130
+  offset: 8, 1
+  index: -1
+HHH/0011
+  rotate: false
+  xy: 515, 778
+  size: 124, 118
+  orig: 140, 130
+  offset: 10, 1
+  index: -1
+HHH/0012
+  rotate: false
+  xy: 642, 898
+  size: 124, 118
+  orig: 140, 130
+  offset: 10, 1
+  index: -1
+HHH/0013
+  rotate: false
+  xy: 641, 778
+  size: 122, 118
+  orig: 140, 130
+  offset: 12, 1
+  index: -1
+HHH/0014
+  rotate: false
+  xy: 768, 898
+  size: 120, 118
+  orig: 140, 130
+  offset: 13, 1
+  index: -1
+HHH/0015
+  rotate: false
+  xy: 887, 778
+  size: 119, 118
+  orig: 140, 130
+  offset: 14, 1
+  index: -1
+HHH/0016
+  rotate: false
+  xy: 130, 458
+  size: 119, 118
+  orig: 140, 130
+  offset: 13, 1
+  index: -1
+HHH/0017
+  rotate: false
+  xy: 129, 338
+  size: 119, 118
+  orig: 140, 130
+  offset: 12, 1
+  index: -1
+HHH/0018
+  rotate: false
+  xy: 128, 218
+  size: 119, 118
+  orig: 140, 130
+  offset: 12, 1
+  index: -1
+HHH/0019
+  rotate: false
+  xy: 126, 98
+  size: 119, 118
+  orig: 140, 130
+  offset: 11, 1
+  index: -1
+HHH/0020
+  rotate: false
+  xy: 327, 658
+  size: 119, 118
+  orig: 140, 130
+  offset: 11, 1
+  index: -1
+HHH/0021
+  rotate: false
+  xy: 569, 658
+  size: 118, 118
+  orig: 140, 130
+  offset: 11, 1
+  index: -1
+HHH/0022
+  rotate: false
+  xy: 689, 658
+  size: 118, 118
+  orig: 140, 130
+  offset: 11, 1
+  index: -1
+HHH/0023
+  rotate: false
+  xy: 448, 658
+  size: 119, 118
+  orig: 140, 130
+  offset: 11, 1
+  index: -1
+HHH/0024
+  rotate: false
+  xy: 765, 778
+  size: 120, 118
+  orig: 140, 130
+  offset: 10, 1
+  index: -1
+HHH/0025
+  rotate: false
+  xy: 890, 898
+  size: 120, 118
+  orig: 140, 130
+  offset: 10, 1
+  index: -1
+PP2/0001
+  rotate: false
+  xy: 985, 630
+  size: 17, 25
+  orig: 158, 120
+  offset: 1, 45
+  index: -1
+PP2/0002
+  rotate: false
+  xy: 216, 598
+  size: 31, 38
+  orig: 158, 120
+  offset: 1, 40
+  index: -1
+PP2/0003
+  rotate: false
+  xy: 427, 404
+  size: 42, 50
+  orig: 158, 120
+  offset: 1, 36
+  index: -1
+PP2/0004
+  rotate: false
+  xy: 633, 475
+  size: 50, 59
+  orig: 158, 120
+  offset: 1, 32
+  index: -1
+PP2/0005
+  rotate: false
+  xy: 572, 467
+  size: 59, 67
+  orig: 158, 120
+  offset: 1, 29
+  index: -1
+PP2/0006
+  rotate: false
+  xy: 503, 461
+  size: 67, 73
+  orig: 158, 120
+  offset: 1, 26
+  index: -1
+PP2/0007
+  rotate: false
+  xy: 427, 456
+  size: 74, 78
+  orig: 158, 120
+  offset: 1, 24
+  index: -1
+PP2/0008
+  rotate: false
+  xy: 431, 218
+  size: 80, 81
+  orig: 158, 120
+  offset: 2, 23
+  index: -1
+PP2/0009
+  rotate: false
+  xy: 344, 209
+  size: 85, 85
+  orig: 158, 120
+  offset: 4, 21
+  index: -1
+PP2/0010
+  rotate: false
+  xy: 247, 119
+  size: 89, 87
+  orig: 158, 120
+  offset: 6, 20
+  index: -1
+PP2/0011
+  rotate: false
+  xy: 249, 208
+  size: 93, 90
+  orig: 158, 120
+  offset: 9, 18
+  index: -1
+PP2/0012
+  rotate: false
+  xy: 102, 4
+  size: 96, 92
+  orig: 158, 120
+  offset: 12, 17
+  index: -1
+PP2/0013
+  rotate: false
+  xy: 2, 3
+  size: 98, 93
+  orig: 158, 120
+  offset: 16, 16
+  index: -1
+PP2/0014
+  rotate: false
+  xy: 251, 409
+  size: 100, 105
+  orig: 158, 120
+  offset: 20, 4
+  index: -1
+PP2/0015
+  rotate: false
+  xy: 250, 300
+  size: 100, 107
+  orig: 158, 120
+  offset: 23, 2
+  index: -1
+PP2/0016
+  rotate: false
+  xy: 809, 657
+  size: 109, 119
+  orig: 158, 120
+  offset: 28, 0
+  index: -1
+PP2/0017
+  rotate: false
+  xy: 361, 537
+  size: 109, 119
+  orig: 158, 120
+  offset: 33, 0
+  index: -1
+PP2/0018
+  rotate: false
+  xy: 216, 638
+  size: 109, 120
+  orig: 158, 120
+  offset: 37, 0
+  index: -1
+PP2/0019
+  rotate: false
+  xy: 251, 516
+  size: 108, 120
+  orig: 158, 120
+  offset: 42, 0
+  index: -1
+PP2/0020
+  rotate: false
+  xy: 472, 536
+  size: 106, 120
+  orig: 158, 120
+  offset: 47, 0
+  index: -1
+PP2/0021
+  rotate: false
+  xy: 687, 536
+  size: 104, 120
+  orig: 158, 120
+  offset: 51, 0
+  index: -1
+PP2/0022
+  rotate: false
+  xy: 580, 536
+  size: 105, 120
+  orig: 158, 120
+  offset: 51, 0
+  index: -1
+PP2/0023
+  rotate: false
+  xy: 920, 657
+  size: 102, 119
+  orig: 158, 120
+  offset: 56, 1
+  index: -1
+PP2/0024
+  rotate: false
+  xy: 793, 537
+  size: 96, 118
+  orig: 158, 120
+  offset: 62, 1
+  index: -1
+PP2/0025
+  rotate: false
+  xy: 891, 537
+  size: 92, 118
+  orig: 158, 120
+  offset: 66, 1
+  index: -1
+PP2/0026
+  rotate: false
+  xy: 259, 4
+  size: 78, 113
+  orig: 158, 120
+  offset: 80, 5
+  index: -1
+PP2/0027
+  rotate: false
+  xy: 353, 404
+  size: 72, 110
+  orig: 158, 120
+  offset: 86, 5
+  index: -1
+PP2/0028
+  rotate: false
+  xy: 352, 296
+  size: 67, 106
+  orig: 158, 120
+  offset: 91, 6
+  index: -1
+PP2/0029
+  rotate: false
+  xy: 421, 301
+  size: 65, 101
+  orig: 158, 120
+  offset: 93, 6
+  index: -1
+PP2/0030
+  rotate: false
+  xy: 200, 2
+  size: 57, 94
+  orig: 158, 120
+  offset: 101, 7
+  index: -1
+liziG2
+  rotate: false
+  xy: 2, 760
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

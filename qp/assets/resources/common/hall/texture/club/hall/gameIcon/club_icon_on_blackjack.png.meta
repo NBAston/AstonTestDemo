@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "613424e6-ac75-4985-a134-c1187c5b9ed6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 142,
+  "height": 122,
+  "platformSettings": {},
+  "subMetas": {
+    "club_icon_on_blackjack": {
+      "ver": "1.0.6",
+      "uuid": "5e87e915-b5e6-4187-b9c6-e962199a1ce4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "613424e6-ac75-4985-a134-c1187c5b9ed6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 122,
+      "rawWidth": 142,
+      "rawHeight": 122,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

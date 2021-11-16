@@ -1,0 +1,125 @@
+
+benchibaoma.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJJJJ
+  rotate: false
+  xy: 2, 247
+  size: 279, 227
+  orig: 279, 227
+  offset: 0, 0
+  index: -1
+HH2/01
+  rotate: false
+  xy: 283, 227
+  size: 91, 107
+  orig: 155, 165
+  offset: 33, 22
+  index: -1
+HH2/02
+  rotate: false
+  xy: 254, 5
+  size: 83, 113
+  orig: 155, 165
+  offset: 33, 24
+  index: -1
+HH2/03
+  rotate: false
+  xy: 774, 357
+  size: 95, 117
+  orig: 155, 165
+  offset: 40, 24
+  index: -1
+HH2/04
+  rotate: false
+  xy: 871, 355
+  size: 93, 119
+  orig: 155, 165
+  offset: 36, 27
+  index: -1
+HH2/05
+  rotate: false
+  xy: 253, 120
+  size: 85, 105
+  orig: 155, 165
+  offset: 37, 26
+  index: -1
+HH2/06
+  rotate: false
+  xy: 544, 245
+  size: 82, 93
+  orig: 155, 165
+  offset: 38, 32
+  index: -1
+HH2/07
+  rotate: false
+  xy: 499, 340
+  size: 85, 134
+  orig: 155, 165
+  offset: 38, 27
+  index: -1
+HH2/08
+  rotate: false
+  xy: 376, 212
+  size: 89, 122
+  orig: 155, 165
+  offset: 40, 28
+  index: -1
+HH2/09
+  rotate: false
+  xy: 155, 2
+  size: 97, 110
+  orig: 155, 165
+  offset: 36, 23
+  index: -1
+HH2/10
+  rotate: false
+  xy: 467, 229
+  size: 75, 105
+  orig: 155, 165
+  offset: 41, 31
+  index: -1
+HH2/11
+  rotate: false
+  xy: 677, 356
+  size: 95, 118
+  orig: 155, 165
+  offset: 39, 29
+  index: -1
+HH2/12
+  rotate: false
+  xy: 586, 345
+  size: 89, 129
+  orig: 155, 165
+  offset: 40, 30
+  index: -1
+c1
+  rotate: false
+  xy: 2, 114
+  size: 249, 131
+  orig: 249, 131
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 2, 19
+  size: 151, 93
+  orig: 151, 93
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 283, 336
+  size: 214, 138
+  orig: 214, 138
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 340, 137
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1

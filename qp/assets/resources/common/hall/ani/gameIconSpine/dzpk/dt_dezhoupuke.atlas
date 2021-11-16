@@ -1,0 +1,139 @@
+
+dt_dezhoupuke.png
+size: 884,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_light
+  rotate: false
+  xy: 300, 22
+  size: 226, 224
+  orig: 240, 240
+  offset: 7, 8
+  index: -1
+bg_purple
+  rotate: false
+  xy: 2, 10
+  size: 296, 236
+  orig: 298, 238
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 732, 190
+  size: 125, 56
+  orig: 125, 58
+  offset: 0, 1
+  index: -1
+cm_01
+  rotate: true
+  xy: 629, 4
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+cm_02
+  rotate: false
+  xy: 647, 54
+  size: 43, 38
+  orig: 44, 38
+  offset: 1, 0
+  index: -1
+cm_03
+  rotate: false
+  xy: 834, 4
+  size: 47, 34
+  orig: 51, 36
+  offset: 0, 1
+  index: -1
+hair_01
+  rotate: false
+  xy: 851, 99
+  size: 25, 89
+  orig: 25, 91
+  offset: 0, 2
+  index: -1
+hair_02
+  rotate: true
+  xy: 528, 9
+  size: 41, 99
+  orig: 41, 99
+  offset: 0, 0
+  index: -1
+hat_01
+  rotate: false
+  xy: 528, 94
+  size: 162, 94
+  orig: 164, 95
+  offset: 0, 0
+  index: -1
+hat_02
+  rotate: false
+  xy: 528, 52
+  size: 117, 40
+  orig: 117, 40
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 692, 92
+  size: 98, 96
+  orig: 103, 99
+  offset: 2, 2
+  index: -1
+left_hand
+  rotate: false
+  xy: 792, 100
+  size: 57, 88
+  orig: 57, 88
+  offset: 0, 0
+  index: -1
+lingdai
+  rotate: true
+  xy: 834, 40
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 300, 2
+  size: 30, 18
+  orig: 30, 19
+  offset: 0, 1
+  index: -1
+poke_01
+  rotate: true
+  xy: 772, 20
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+poke_02
+  rotate: true
+  xy: 692, 23
+  size: 67, 78
+  orig: 68, 80
+  offset: 1, 2
+  index: -1
+words
+  rotate: false
+  xy: 528, 190
+  size: 202, 56
+  orig: 204, 59
+  offset: 2, 0
+  index: -1
+zidan_01
+  rotate: false
+  xy: 657, 23
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+zidan_02
+  rotate: true
+  xy: 859, 221
+  size: 25, 22
+  orig: 27, 25
+  offset: 2, 0
+  index: -1

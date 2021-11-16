@@ -1,0 +1,118 @@
+
+zjh_animation_win.png
+size: 2048,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 504, 865
+  size: 349, 151
+  orig: 349, 151
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 504, 712
+  size: 349, 151
+  orig: 349, 151
+  offset: 0, 0
+  index: -1
+lost_bg
+  rotate: false
+  xy: 0, 509
+  size: 502, 507
+  orig: 502, 507
+  offset: 0, 0
+  index: -1
+lost_bg2
+  rotate: false
+  xy: 1206, 916
+  size: 398, 100
+  orig: 398, 100
+  offset: 0, 0
+  index: -1
+lost_bg3
+  rotate: false
+  xy: 855, 635
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+lost_bg4
+  rotate: false
+  xy: 606, 329
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+lost_bg5
+  rotate: false
+  xy: 606, 99
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+lost_bg6
+  rotate: false
+  xy: 1085, 635
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+lost_bg7
+  rotate: false
+  xy: 1315, 686
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+lost_txt
+  rotate: false
+  xy: 855, 865
+  size: 349, 151
+  orig: 349, 151
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 855, 595
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 504, 130
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+win_bg
+  rotate: false
+  xy: 0, 0
+  size: 502, 507
+  orig: 502, 507
+  offset: 0, 0
+  index: -1
+win_bg2
+  rotate: true
+  xy: 504, 159
+  size: 398, 100
+  orig: 398, 100
+  offset: 0, 0
+  index: -1
+win_bg3
+  rotate: false
+  xy: 1606, 788
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+win_txt
+  rotate: false
+  xy: 504, 559
+  size: 349, 151
+  orig: 349, 151
+  offset: 0, 0
+  index: -1

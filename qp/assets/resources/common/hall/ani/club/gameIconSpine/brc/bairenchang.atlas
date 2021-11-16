@@ -1,0 +1,195 @@
+
+bairenchang.png
+size: 548,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_black
+  rotate: false
+  xy: 2, 4
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+bg_blue
+  rotate: false
+  xy: 146, 4
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+boy/body
+  rotate: true
+  xy: 368, 64
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+boy/cloth
+  rotate: false
+  xy: 437, 6
+  size: 20, 13
+  orig: 22, 15
+  offset: 1, 1
+  index: -1
+boy/face
+  rotate: true
+  xy: 368, 19
+  size: 43, 51
+  orig: 45, 53
+  offset: 1, 1
+  index: -1
+boy/left_arm
+  rotate: false
+  xy: 485, 5
+  size: 18, 30
+  orig: 20, 31
+  offset: 1, 1
+  index: -1
+boy/left_eye
+  rotate: true
+  xy: 413, 9
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+boy/left_eyebrow
+  rotate: false
+  xy: 402, 3
+  size: 8, 6
+  orig: 10, 8
+  offset: 1, 1
+  index: -1
+boy/left_forarm
+  rotate: true
+  xy: 506, 6
+  size: 33, 40
+  orig: 35, 42
+  offset: 1, 1
+  index: -1
+boy/mouth_01
+  rotate: false
+  xy: 290, 4
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+boy/mouth_02
+  rotate: true
+  xy: 338, 7
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+boy/right_arm
+  rotate: false
+  xy: 338, 35
+  size: 22, 25
+  orig: 24, 26
+  offset: 1, 1
+  index: -1
+boy/right_eye
+  rotate: true
+  xy: 330, 5
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+boy/right_eyebrow
+  rotate: false
+  xy: 313, 8
+  size: 15, 8
+  orig: 17, 10
+  offset: 1, 1
+  index: -1
+boy/right_forarm
+  rotate: false
+  xy: 485, 37
+  size: 19, 36
+  orig: 21, 38
+  offset: 1, 1
+  index: -1
+girl/body
+  rotate: true
+  xy: 439, 75
+  size: 51, 66
+  orig: 53, 66
+  offset: 2, 0
+  index: -1
+girl/head
+  rotate: true
+  xy: 290, 18
+  size: 42, 46
+  orig: 44, 49
+  offset: 1, 2
+  index: -1
+girl/left_arm
+  rotate: false
+  xy: 421, 2
+  size: 14, 39
+  orig: 18, 43
+  offset: 2, 2
+  index: -1
+girl/left_eye
+  rotate: false
+  xy: 390, 10
+  size: 10, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+girl/mouth
+  rotate: false
+  xy: 361, 9
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+girl/right_arm
+  rotate: true
+  xy: 459, 9
+  size: 10, 24
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+girl/right_eye
+  rotate: false
+  xy: 376, 10
+  size: 12, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+girl/right_hand
+  rotate: true
+  xy: 402, 11
+  size: 6, 9
+  orig: 6, 12
+  offset: 0, 2
+  index: -1
+hua
+  rotate: false
+  xy: 421, 43
+  size: 15, 19
+  orig: 16, 19
+  offset: 1, 0
+  index: -1
+mj
+  rotate: false
+  xy: 439, 21
+  size: 44, 52
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+poke
+  rotate: false
+  xy: 290, 62
+  size: 76, 64
+  orig: 77, 64
+  offset: 1, 0
+  index: -1
+word
+  rotate: true
+  xy: 507, 41
+  size: 85, 31
+  orig: 96, 42
+  offset: 6, 5
+  index: -1

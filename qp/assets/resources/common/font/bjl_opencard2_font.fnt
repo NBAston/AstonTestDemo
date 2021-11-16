@@ -1,0 +1,14 @@
+info face="face" size=58
+common lineHeight=58 scaleW=213 scaleH=118 pages=1
+page id=0 file="bjl_opencard2_font.png"
+chars count=10
+char id=48 x=172 y=60 width=39 height=50 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=49 x=0 y=0 width=41 height=58 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=50 x=43 y=0 width=41 height=58 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=51 x=86 y=0 width=41 height=58 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=52 x=0 y=60 width=41 height=58 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=53 x=43 y=60 width=41 height=58 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=54 x=86 y=60 width=41 height=58 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=55 x=129 y=0 width=41 height=58 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=56 x=129 y=60 width=41 height=58 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=57 x=172 y=0 width=41 height=58 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15

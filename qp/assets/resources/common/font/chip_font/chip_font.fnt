@@ -1,0 +1,11 @@
+info face="face" size=119
+common lineHeight=119 scaleW=385 scaleH=361 pages=1
+page id=0 file="chip_font.png"
+chars count=7
+char id=102 x=0 y=0 width=127 height=119 xoffset=0 yoffset=0 xadvance=127 page=0 chnl=15
+char id=103 x=129 y=0 width=127 height=119 xoffset=0 yoffset=0 xadvance=127 page=0 chnl=15
+char id=97 x=0 y=121 width=127 height=119 xoffset=0 yoffset=0 xadvance=127 page=0 chnl=15
+char id=98 x=129 y=121 width=127 height=119 xoffset=0 yoffset=0 xadvance=127 page=0 chnl=15
+char id=99 x=258 y=0 width=127 height=119 xoffset=0 yoffset=0 xadvance=127 page=0 chnl=15
+char id=100 x=258 y=121 width=127 height=119 xoffset=0 yoffset=0 xadvance=127 page=0 chnl=15
+char id=101 x=0 y=242 width=127 height=119 xoffset=0 yoffset=0 xadvance=127 page=0 chnl=15

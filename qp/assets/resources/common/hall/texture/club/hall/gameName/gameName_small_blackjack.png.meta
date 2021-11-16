@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7ba614f9-077b-448b-bed9-c427de237de0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 88,
+  "height": 22,
+  "platformSettings": {},
+  "subMetas": {
+    "gameName_small_blackjack": {
+      "ver": "1.0.6",
+      "uuid": "2ac78da1-0366-4db4-831d-343846bdc3f4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7ba614f9-077b-448b-bed9-c427de237de0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 22,
+      "rawWidth": 88,
+      "rawHeight": 22,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

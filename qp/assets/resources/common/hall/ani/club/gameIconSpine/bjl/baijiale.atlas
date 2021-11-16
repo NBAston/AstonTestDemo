@@ -1,0 +1,104 @@
+
+baijiale.png
+size: 788,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_black
+  rotate: true
+  xy: 452, 108
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+bg_blue
+  rotate: true
+  xy: 576, 108
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+bg_light
+  rotate: true
+  xy: 2, 24
+  size: 226, 224
+  orig: 240, 240
+  offset: 7, 8
+  index: -1
+cm_01
+  rotate: false
+  xy: 700, 138
+  size: 86, 112
+  orig: 88, 112
+  offset: 2, 0
+  index: -1
+cm_02_01
+  rotate: false
+  xy: 508, 3
+  size: 131, 103
+  orig: 132, 107
+  offset: 1, 2
+  index: -1
+cm_02_02
+  rotate: false
+  xy: 273, 2
+  size: 90, 90
+  orig: 96, 94
+  offset: 4, 2
+  index: -1
+cm_02_03
+  rotate: false
+  xy: 641, 16
+  size: 90, 90
+  orig: 96, 94
+  offset: 1, 2
+  index: -1
+piaodai
+  rotate: true
+  xy: 228, 31
+  size: 219, 43
+  orig: 219, 43
+  offset: 0, 0
+  index: -1
+poke_01
+  rotate: true
+  xy: 365, 3
+  size: 99, 141
+  orig: 100, 141
+  offset: 1, 0
+  index: -1
+poke_02
+  rotate: false
+  xy: 330, 104
+  size: 120, 146
+  orig: 120, 148
+  offset: 0, 1
+  index: -1
+words
+  rotate: true
+  xy: 273, 94
+  size: 156, 55
+  orig: 159, 60
+  offset: 3, 3
+  index: -1
+zs_01
+  rotate: true
+  xy: 733, 8
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+zs_02
+  rotate: false
+  xy: 733, 91
+  size: 51, 45
+  orig: 51, 47
+  offset: 0, 1
+  index: -1
+zs_03
+  rotate: false
+  xy: 733, 52
+  size: 44, 37
+  orig: 51, 47
+  offset: 3, 5
+  index: -1

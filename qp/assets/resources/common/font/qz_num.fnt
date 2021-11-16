@@ -1,0 +1,20 @@
+info face="微软雅黑" size=40 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=40 base=26 scaleW=185 scaleH=160 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="qz_num.png"
+chars count=16
+char id=48   x=154    y=0     width=31    height=40    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=49   x=62    y=80     width=31    height=40    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=50   x=154    y=40     width=31    height=40    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=51   x=0    y=120     width=31    height=40    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=52   x=31    y=120     width=31    height=40    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=53   x=120    y=40     width=31    height=40    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=54   x=0    y=80     width=31    height=40    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=55   x=31    y=80     width=31    height=40    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=56   x=62    y=120     width=31    height=40    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=57   x=93    y=80     width=31    height=40    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=110   x=0    y=0     width=77    height=40    xoffset=0     yoffset=0     xadvance=77    page=0  chnl=15
+char id=113   x=40    y=40     width=40    height=40    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=120   x=154    y=80     width=31    height=40    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=98   x=80    y=40     width=40    height=40    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=122   x=77    y=0     width=77    height=40    xoffset=0     yoffset=0     xadvance=77    page=0  chnl=15
+char id=100   x=0    y=40     width=40    height=40    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15

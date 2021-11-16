@@ -1,0 +1,104 @@
+
+doudizhu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Apai
+  rotate: false
+  xy: 163, 221
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+DW
+  rotate: false
+  xy: 390, 201
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+G1
+  rotate: false
+  xy: 290, 115
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+G2
+  rotate: false
+  xy: 290, 69
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+G45
+  rotate: false
+  xy: 2, 281
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+JZ
+  rotate: false
+  xy: 225, 331
+  size: 250, 171
+  orig: 250, 171
+  offset: 0, 0
+  index: -1
+ST2
+  rotate: false
+  xy: 2, 50
+  size: 136, 69
+  orig: 136, 69
+  offset: 0, 0
+  index: -1
+XW
+  rotate: false
+  xy: 163, 45
+  size: 125, 133
+  orig: 125, 133
+  offset: 0, 0
+  index: -1
+YB1
+  rotate: false
+  xy: 54, 17
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+YB2
+  rotate: false
+  xy: 2, 2
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+YB3
+  rotate: false
+  xy: 163, 184
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+YW1
+  rotate: false
+  xy: 2, 121
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+jinb1
+  rotate: false
+  xy: 477, 470
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+topu
+  rotate: false
+  xy: 225, 180
+  size: 163, 149
+  orig: 163, 149
+  offset: 0, 0
+  index: -1

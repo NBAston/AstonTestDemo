@@ -1,0 +1,174 @@
+
+bairenniuniu.png
+size: 568,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_black
+  rotate: false
+  xy: 2, 4
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+bg_blue
+  rotate: false
+  xy: 146, 4
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+earring
+  rotate: true
+  xy: 490, 16
+  size: 9, 10
+  orig: 16, 16
+  offset: 3, 3
+  index: -1
+face
+  rotate: true
+  xy: 290, 51
+  size: 75, 72
+  orig: 78, 72
+  offset: 2, 0
+  index: -1
+gold_01
+  rotate: true
+  xy: 532, 5
+  size: 26, 25
+  orig: 30, 26
+  offset: 2, 0
+  index: -1
+gold_02
+  rotate: false
+  xy: 438, 5
+  size: 24, 20
+  orig: 28, 22
+  offset: 2, 1
+  index: -1
+gold_03
+  rotate: true
+  xy: 510, 69
+  size: 32, 20
+  orig: 36, 22
+  offset: 1, 2
+  index: -1
+gold_04
+  rotate: false
+  xy: 452, 34
+  size: 18, 17
+  orig: 26, 26
+  offset: 3, 4
+  index: -1
+hat_01
+  rotate: false
+  xy: 364, 86
+  size: 93, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+hat_02
+  rotate: false
+  xy: 474, 27
+  size: 26, 25
+  orig: 30, 26
+  offset: 1, 1
+  index: -1
+hat_03
+  rotate: true
+  xy: 502, 2
+  size: 26, 25
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hx
+  rotate: true
+  xy: 559, 22
+  size: 9, 4
+  orig: 11, 6
+  offset: 1, 1
+  index: -1
+mj
+  rotate: false
+  xy: 459, 103
+  size: 73, 23
+  orig: 76, 24
+  offset: 1, 1
+  index: -1
+mouth_01
+  rotate: false
+  xy: 459, 86
+  size: 49, 15
+  orig: 56, 20
+  offset: 3, 3
+  index: -1
+mouth_02
+  rotate: true
+  xy: 534, 71
+  size: 55, 28
+  orig: 56, 28
+  offset: 1, 0
+  index: -1
+nj
+  rotate: false
+  xy: 532, 33
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 409, 3
+  size: 27, 22
+  orig: 30, 25
+  offset: 2, 2
+  index: -1
+p2
+  rotate: true
+  xy: 474, 54
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+p3
+  rotate: true
+  xy: 507, 30
+  size: 37, 23
+  orig: 38, 23
+  offset: 1, 0
+  index: -1
+right_ear
+  rotate: false
+  xy: 464, 7
+  size: 24, 18
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 290, 7
+  size: 117, 42
+  orig: 122, 46
+  offset: 3, 2
+  index: -1
+star_01
+  rotate: false
+  xy: 409, 30
+  size: 20, 21
+  orig: 24, 24
+  offset: 2, 2
+  index: -1
+star_02
+  rotate: false
+  xy: 431, 32
+  size: 19, 19
+  orig: 22, 22
+  offset: 1, 2
+  index: -1
+word_brnn
+  rotate: false
+  xy: 364, 53
+  size: 108, 31
+  orig: 110, 40
+  offset: 2, 3
+  index: -1

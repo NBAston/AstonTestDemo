@@ -1,0 +1,90 @@
+
+sz_animation.png
+size: 1024,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sz_animation_banker
+  rotate: false
+  xy: 734, 86
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+sz_animation_banker_liang
+  rotate: false
+  xy: 796, 148
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+sz_animation_banker_light1
+  rotate: false
+  xy: 796, 86
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+sz_animation_banker_light2
+  rotate: false
+  xy: 858, 148
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+sz_animation_banker_light3
+  rotate: false
+  xy: 858, 86
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+sz_animation_banker_light4
+  rotate: false
+  xy: 920, 148
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+sz_animation_banker_light5
+  rotate: false
+  xy: 734, 148
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+sz_animation_board
+  rotate: false
+  xy: 2, 2
+  size: 150, 206
+  orig: 150, 206
+  offset: 0, 0
+  index: -1
+sz_animation_greenlight
+  rotate: false
+  xy: 154, 2
+  size: 150, 206
+  orig: 150, 206
+  offset: 0, 0
+  index: -1
+sz_animation_head_light
+  rotate: false
+  xy: 610, 33
+  size: 122, 175
+  orig: 122, 175
+  offset: 0, 0
+  index: -1
+sz_animation_redlight
+  rotate: false
+  xy: 306, 2
+  size: 150, 206
+  orig: 150, 206
+  offset: 0, 0
+  index: -1
+sz_animation_yellowlight
+  rotate: false
+  xy: 458, 2
+  size: 150, 206
+  orig: 150, 206
+  offset: 0, 0
+  index: -1

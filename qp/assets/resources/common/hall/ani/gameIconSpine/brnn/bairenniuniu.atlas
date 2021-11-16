@@ -1,0 +1,160 @@
+
+bairenniuniu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ED1
+  rotate: false
+  xy: 272, 218
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+G1
+  rotate: false
+  xy: 272, 173
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+G22
+  rotate: false
+  xy: 184, 95
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+HX1
+  rotate: false
+  xy: 320, 266
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+HX2
+  rotate: false
+  xy: 2, 2
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+JINBI4
+  rotate: false
+  xy: 184, 132
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+MAOZI2
+  rotate: false
+  xy: 222, 156
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+MAOZIB4
+  rotate: false
+  xy: 118, 25
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+MAOZIZJ
+  rotate: false
+  xy: 2, 76
+  size: 180, 86
+  orig: 180, 86
+  offset: 0, 0
+  index: -1
+NIUj
+  rotate: false
+  xy: 2, 12
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+P1
+  rotate: false
+  xy: 402, 366
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+P2
+  rotate: false
+  xy: 260, 264
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+P3
+  rotate: false
+  xy: 402, 412
+  size: 69, 43
+  orig: 69, 43
+  offset: 0, 0
+  index: -1
+ST1
+  rotate: false
+  xy: 2, 164
+  size: 218, 85
+  orig: 218, 85
+  offset: 0, 0
+  index: -1
+YNJK
+  rotate: false
+  xy: 473, 413
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ZUI
+  rotate: false
+  xy: 402, 457
+  size: 94, 50
+  orig: 94, 50
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 222, 201
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 61, 20
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 320, 275
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 260, 374
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+liziG2
+  rotate: false
+  xy: 2, 251
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 260, 322
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1

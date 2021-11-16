@@ -1,0 +1,48 @@
+
+bairenerbagang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G1
+  rotate: false
+  xy: 2, 2
+  size: 274, 240
+  orig: 274, 240
+  offset: 0, 0
+  index: -1
+MAJANG
+  rotate: false
+  xy: 278, 78
+  size: 194, 164
+  orig: 194, 164
+  offset: 0, 0
+  index: -1
+PP
+  rotate: false
+  xy: 559, 204
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+fazi
+  rotate: false
+  xy: 474, 151
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+shanzi1
+  rotate: false
+  xy: 474, 96
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+shanzi2
+  rotate: false
+  xy: 278, 5
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1

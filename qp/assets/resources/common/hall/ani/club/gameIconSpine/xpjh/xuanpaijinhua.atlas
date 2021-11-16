@@ -1,0 +1,139 @@
+
+xuanpaijinhua.png
+size: 664,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_black
+  rotate: false
+  xy: 2, 4
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+bg_purple
+  rotate: false
+  xy: 146, 4
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+cm_01
+  rotate: true
+  xy: 461, 56
+  size: 70, 66
+  orig: 74, 74
+  offset: 2, 4
+  index: -1
+cm_02
+  rotate: true
+  xy: 584, 2
+  size: 64, 57
+  orig: 74, 74
+  offset: 5, 8
+  index: -1
+fire_01
+  rotate: true
+  xy: 361, 2
+  size: 41, 35
+  orig: 56, 56
+  offset: 7, 13
+  index: -1
+fire_02
+  rotate: true
+  xy: 545, 13
+  size: 41, 31
+  orig: 56, 56
+  offset: 8, 16
+  index: -1
+fire_03
+  rotate: false
+  xy: 443, 5
+  size: 38, 42
+  orig: 56, 56
+  offset: 6, 8
+  index: -1
+fire_04
+  rotate: true
+  xy: 322, 2
+  size: 41, 37
+  orig: 56, 56
+  offset: 6, 12
+  index: -1
+fire_05
+  rotate: true
+  xy: 398, 2
+  size: 45, 43
+  orig: 56, 56
+  offset: 1, 10
+  index: -1
+light
+  rotate: true
+  xy: 584, 68
+  size: 58, 68
+  orig: 80, 80
+  offset: 11, 6
+  index: -1
+pai_01
+  rotate: false
+  xy: 322, 45
+  size: 71, 81
+  orig: 72, 90
+  offset: 1, 4
+  index: -1
+pai_02
+  rotate: false
+  xy: 529, 56
+  size: 53, 70
+  orig: 72, 90
+  offset: 10, 10
+  index: -1
+pai_03
+  rotate: false
+  xy: 395, 49
+  size: 64, 77
+  orig: 72, 90
+  offset: 4, 6
+  index: -1
+pd_01
+  rotate: false
+  xy: 290, 3
+  size: 18, 10
+  orig: 24, 24
+  offset: 3, 7
+  index: -1
+pd_02
+  rotate: false
+  xy: 643, 21
+  size: 15, 13
+  orig: 24, 24
+  offset: 4, 6
+  index: -1
+pd_03
+  rotate: false
+  xy: 643, 36
+  size: 18, 14
+  orig: 24, 24
+  offset: 3, 5
+  index: -1
+pd_04
+  rotate: false
+  xy: 643, 52
+  size: 19, 14
+  orig: 24, 24
+  offset: 3, 5
+  index: -1
+word_xpjh
+  rotate: true
+  xy: 290, 15
+  size: 111, 30
+  orig: 113, 40
+  offset: 2, 4
+  index: -1
+zd
+  rotate: true
+  xy: 483, 5
+  size: 49, 60
+  orig: 52, 62
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+zjh_headbox.png
+size: 1732,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 1573, 72
+  size: 110, 156
+  orig: 150, 190
+  offset: 20, 17
+  index: -1
+timer_01
+  rotate: true
+  xy: 1573, 184
+  size: 112, 155
+  orig: 140, 177
+  offset: 14, 11
+  index: -1
+timer_02
+  rotate: true
+  xy: 211, 7
+  size: 132, 176
+  orig: 140, 177
+  offset: 4, 1
+  index: -1
+win_light_001
+  rotate: false
+  xy: 1353, 254
+  size: 42, 42
+  orig: 320, 240
+  offset: 137, 113
+  index: -1
+win_light_002
+  rotate: false
+  xy: 1573, 11
+  size: 96, 59
+  orig: 320, 240
+  offset: 111, 104
+  index: -1
+win_light_003
+  rotate: false
+  xy: 1220, 36
+  size: 175, 114
+  orig: 320, 240
+  offset: 72, 76
+  index: -1
+win_light_005
+  rotate: false
+  xy: 965, 152
+  size: 254, 144
+  orig: 320, 240
+  offset: 32, 61
+  index: -1
+win_light_006
+  rotate: false
+  xy: 710, 4
+  size: 320, 144
+  orig: 320, 240
+  offset: 0, 61
+  index: -1
+win_light_008
+  rotate: false
+  xy: 323, 150
+  size: 319, 146
+  orig: 320, 240
+  offset: 0, 60
+  index: -1
+win_light_009
+  rotate: false
+  xy: 389, 2
+  size: 319, 146
+  orig: 320, 240
+  offset: 0, 60
+  index: -1
+win_light_011
+  rotate: false
+  xy: 644, 150
+  size: 319, 146
+  orig: 320, 240
+  offset: 0, 60
+  index: -1
+win_light_012
+  rotate: false
+  xy: 2, 141
+  size: 319, 155
+  orig: 320, 240
+  offset: 0, 56
+  index: -1
+win_light_014
+  rotate: true
+  xy: 1397, 20
+  size: 276, 174
+  orig: 320, 240
+  offset: 17, 46
+  index: -1
+win_light_016
+  rotate: true
+  xy: 1032, 6
+  size: 144, 186
+  orig: 320, 240
+  offset: 86, 40
+  index: -1
+win_light_018
+  rotate: true
+  xy: 2, 10
+  size: 129, 207
+  orig: 320, 240
+  offset: 98, 18
+  index: -1
+win_light_019
+  rotate: false
+  xy: 1221, 160
+  size: 130, 136
+  orig: 320, 240
+  offset: 98, 37
+  index: -1
+win_light_020
+  rotate: false
+  xy: 1220, 5
+  size: 76, 29
+  orig: 320, 240
+  offset: 120, 119
+  index: -1

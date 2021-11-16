@@ -1,0 +1,83 @@
+
+suohaSP.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P1
+  rotate: false
+  xy: 577, 149
+  size: 93, 104
+  orig: 93, 104
+  offset: 0, 0
+  index: -1
+P3
+  rotate: false
+  xy: 672, 149
+  size: 93, 104
+  orig: 93, 104
+  offset: 0, 0
+  index: -1
+P4
+  rotate: false
+  xy: 354, 143
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+P5
+  rotate: false
+  xy: 464, 147
+  size: 111, 106
+  orig: 111, 106
+  offset: 0, 0
+  index: -1
+chouma2
+  rotate: false
+  xy: 847, 196
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+p2
+  rotate: false
+  xy: 767, 159
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1
+shAZI
+  rotate: false
+  xy: 96, 22
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 262, 123
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 168, 110
+  size: 92, 143
+  orig: 92, 143
+  offset: 0, 0
+  index: -1
+zhu
+  rotate: false
+  xy: 2, 2
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 2, 85
+  size: 164, 168
+  orig: 164, 168
+  offset: 0, 0
+  index: -1

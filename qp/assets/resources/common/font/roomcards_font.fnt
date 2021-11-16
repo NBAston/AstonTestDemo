@@ -1,0 +1,15 @@
+info face="face" size=28
+common lineHeight=28 scaleW=101 scaleH=87 pages=1
+page id=0 file="roomcards_font.png"
+chars count=11
+char id=48 x=23 y=0 width=20 height=28 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=49 x=89 y=0 width=12 height=28 xoffset=0 yoffset=0 xadvance=12 page=0 chnl=15
+char id=50 x=0 y=60 width=19 height=27 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=51 x=45 y=0 width=20 height=28 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=52 x=0 y=0 width=21 height=28 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=53 x=0 y=30 width=20 height=28 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=54 x=22 y=30 width=20 height=28 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=55 x=44 y=30 width=20 height=28 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=56 x=67 y=0 width=20 height=28 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=57 x=67 y=30 width=20 height=28 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=46 x=89 y=30 width=10 height=28 xoffset=0 yoffset=0 xadvance=10 page=0 chnl=15

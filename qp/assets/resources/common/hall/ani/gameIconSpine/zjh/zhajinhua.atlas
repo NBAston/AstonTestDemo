@@ -1,0 +1,111 @@
+
+zhajinhua.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+04/0001
+  rotate: false
+  xy: 651, 189
+  size: 56, 56
+  orig: 120, 113
+  offset: 32, 30
+  index: -1
+04/0002
+  rotate: false
+  xy: 589, 188
+  size: 60, 57
+  orig: 120, 113
+  offset: 31, 29
+  index: -1
+04/0003
+  rotate: false
+  xy: 768, 189
+  size: 55, 56
+  orig: 120, 113
+  offset: 33, 29
+  index: -1
+04/0004
+  rotate: false
+  xy: 709, 190
+  size: 57, 55
+  orig: 120, 113
+  offset: 33, 30
+  index: -1
+04/0005
+  rotate: false
+  xy: 480, 87
+  size: 59, 59
+  orig: 120, 113
+  offset: 30, 27
+  index: -1
+04/0006
+  rotate: false
+  xy: 85, 18
+  size: 59, 57
+  orig: 120, 113
+  offset: 30, 29
+  index: -1
+P1
+  rotate: false
+  xy: 2, 77
+  size: 183, 168
+  orig: 183, 168
+  offset: 0, 0
+  index: -1
+P2
+  rotate: false
+  xy: 187, 66
+  size: 164, 179
+  orig: 164, 179
+  offset: 0, 0
+  index: -1
+P3
+  rotate: false
+  xy: 353, 82
+  size: 125, 163
+  orig: 125, 163
+  offset: 0, 0
+  index: -1
+X1
+  rotate: false
+  xy: 146, 48
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+X2
+  rotate: false
+  xy: 825, 227
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+X3
+  rotate: false
+  xy: 589, 151
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+X4
+  rotate: false
+  xy: 541, 102
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Z1
+  rotate: false
+  xy: 2, 2
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1
+Z2
+  rotate: false
+  xy: 480, 148
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1

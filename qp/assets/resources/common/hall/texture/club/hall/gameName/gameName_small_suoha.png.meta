@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fb9bc980-694d-4d62-a8c8-0e338333baca",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 44,
+  "height": 21,
+  "platformSettings": {},
+  "subMetas": {
+    "gameName_small_suoha": {
+      "ver": "1.0.6",
+      "uuid": "8c36d55b-ebe9-4c44-af2f-de34fe840fd3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fb9bc980-694d-4d62-a8c8-0e338333baca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 44,
+      "height": 21,
+      "rawWidth": 44,
+      "rawHeight": 21,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

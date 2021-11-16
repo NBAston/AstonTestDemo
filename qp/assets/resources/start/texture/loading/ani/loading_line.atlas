@@ -1,0 +1,104 @@
+
+loading_line.png
+size: 148,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 2, 109
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+light_001
+  rotate: false
+  xy: 35, 37
+  size: 30, 34
+  orig: 35, 35
+  offset: 4, 1
+  index: -1
+light_002
+  rotate: false
+  xy: 40, 112
+  size: 30, 33
+  orig: 35, 35
+  offset: 4, 2
+  index: -1
+light_003
+  rotate: true
+  xy: 2, 73
+  size: 34, 33
+  orig: 35, 35
+  offset: 0, 2
+  index: -1
+light_004
+  rotate: true
+  xy: 72, 112
+  size: 33, 28
+  orig: 35, 35
+  offset: 0, 6
+  index: -1
+light_005
+  rotate: true
+  xy: 36, 2
+  size: 33, 30
+  orig: 35, 35
+  offset: 0, 4
+  index: -1
+light_006
+  rotate: false
+  xy: 67, 38
+  size: 30, 33
+  orig: 35, 35
+  offset: 0, 1
+  index: -1
+light_007
+  rotate: false
+  xy: 97, 2
+  size: 26, 34
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+light_008
+  rotate: false
+  xy: 37, 73
+  size: 30, 34
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+light_009
+  rotate: true
+  xy: 68, 2
+  size: 34, 27
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+light_010
+  rotate: true
+  xy: 99, 43
+  size: 33, 25
+  orig: 35, 35
+  offset: 2, 0
+  index: -1
+light_011
+  rotate: true
+  xy: 69, 78
+  size: 32, 29
+  orig: 35, 35
+  offset: 3, 0
+  index: -1
+light_012
+  rotate: false
+  xy: 2, 3
+  size: 32, 32
+  orig: 35, 35
+  offset: 3, 1
+  index: -1
+light_013
+  rotate: false
+  xy: 2, 37
+  size: 31, 34
+  orig: 35, 35
+  offset: 4, 1
+  index: -1

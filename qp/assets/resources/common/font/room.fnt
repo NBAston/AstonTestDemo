@@ -1,0 +1,15 @@
+info face="BitmapFontFree" size=49 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=49 base=23 scaleW=436 scaleH=59 pages=1 packed=0 alphaChnl=4 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="number_font_0.png"
+chars count=11
+char id=48 x=5 y=5 width=36 height=49 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+char id=49 x=46 y=5 width=36 height=49 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+char id=50 x=87 y=5 width=36 height=49 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+char id=51 x=128 y=5 width=36 height=49 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+char id=52 x=169 y=5 width=36 height=49 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+char id=53 x=210 y=5 width=36 height=49 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+char id=54 x=251 y=5 width=36 height=49 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+char id=55 x=292 y=5 width=36 height=49 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+char id=56 x=333 y=5 width=36 height=49 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+char id=57 x=374 y=5 width=36 height=49 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+char id=46 x=415 y=5 width=16 height=49 xoffset=0 yoffset=0 xadvance=16 page=0 chnl=0

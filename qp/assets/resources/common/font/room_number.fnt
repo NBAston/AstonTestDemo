@@ -1,0 +1,15 @@
+info face="face" size=77
+common lineHeight=77 scaleW=293 scaleH=235 pages=1
+page id=0 file="room_number.png"
+chars count=11
+char id=48 x=0 y=0 width=57 height=77 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=15
+char id=49 x=236 y=79 width=38 height=77 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=50 x=59 y=0 width=57 height=77 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=15
+char id=51 x=118 y=0 width=57 height=77 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=15
+char id=52 x=0 y=79 width=57 height=77 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=15
+char id=53 x=59 y=79 width=57 height=77 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=15
+char id=54 x=118 y=79 width=57 height=77 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=15
+char id=55 x=177 y=0 width=57 height=77 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=15
+char id=56 x=177 y=79 width=57 height=77 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=15
+char id=57 x=236 y=0 width=57 height=77 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=15
+char id=46 x=0 y=158 width=28 height=77 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15

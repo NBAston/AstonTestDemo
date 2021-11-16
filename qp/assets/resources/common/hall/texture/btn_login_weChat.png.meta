@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "104f2315-1b58-40a5-aa94-42b1f4d04f21",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 217,
+  "height": 77,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_login_weChat": {
+      "ver": "1.0.6",
+      "uuid": "4bc70bb0-795f-472b-bfe2-b92ac37875f9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "104f2315-1b58-40a5-aa94-42b1f4d04f21",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 216,
+      "height": 76,
+      "rawWidth": 217,
+      "rawHeight": 77,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
